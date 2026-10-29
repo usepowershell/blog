@@ -1,0 +1,48 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+(function () {
+  try {
+    var stored = localStorage.getItem("theme");
+    if (stored === "dark" || stored === "light") {
+      document.documentElement.setAttribute("data-theme", stored);
+    }
+  } catch (e) {}
+})();
+</script>
+{{- $desc := "" -}}
+{{- if .IsHome -}}
+  {{- $desc = site.Params.description -}}
+{{- else if .Description -}}
+  {{- $desc = .Description -}}
+{{- else -}}
+  {{- $desc = .Summary | plainify | truncate 180 -}}
+{{- end -}}
+{{- $title := site.Title -}}
+{{- if and (not .IsHome) .Title -}}
+  {{- $title = printf "%s · %s" .Title site.Title -}}
+{{- end -}}
+<title>{{ $title }}</title>
+{{- with $desc }}
+<meta name="description" content="{{ . }}">
+{{- end }}
+<meta name="robots" content="index,follow">
+<meta name="theme-color" content="#d5e3da" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#101815" media="(prefers-color-scheme: dark)">
+<link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">
+<link rel="stylesheet" href="{{ "css/site.css" | relURL }}">
+<link rel="canonical" href="{{ .Permalink }}">
+{{- with .OutputFormats.Get "RSS" }}
+<link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ site.Title }}">
+{{- end }}
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="{{ site.Title }}">
+<meta property="og:type" content="{{ if eq .Type "post" }}article{{ else }}website{{ end }}">
+{{- with $desc }}
+<meta property="og:description" content="{{ . }}">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ . }}">
+{{- end }}
+{{ hugo.Generator }}

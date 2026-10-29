@@ -12,13 +12,13 @@ jobs:
     runs-on: ubuntu-latest
     name: Build and Deploy Job
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           submodules: true
       - name: Set up Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          # Keep pinned until Ghostwriter's legacy internal templates are migrated.
+          # Pinned to the Hugo version these layouts were built and checked against.
           hugo-version: '0.123.8'
           extended: false
       - name: Run Hugo

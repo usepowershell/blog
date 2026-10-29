@@ -1,0 +1,15 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ partial "level.html" (dict "animated" false) }}
+{{- $pag := .Paginate .Pages -}}
+{{- if $pag.Pages }}
+<ul class="entries">
+  {{- range $pag.Pages }}
+    {{ partial "entry.html" . }}
+  {{- end }}
+</ul>
+{{ partial "pager.html" . }}
+{{- else }}
+<p>No posts here.</p>
+{{- end }}
+{{ end }}

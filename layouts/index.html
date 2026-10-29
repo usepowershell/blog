@@ -1,0 +1,55 @@
+{{ define "main" }}
+{{- $posts := where site.RegularPages "Type" "post" -}}
+{{- $posts = where $posts "Params.archived" "ne" true -}}
+{{- $pag := .Paginate $posts -}}
+{{- if eq $pag.PageNumber 1 -}}
+  {{- with index site.Data "start-here" }}
+  <section class="start" aria-labelledby="start-heading">
+    <h1 id="start-heading">Start here</h1>
+    {{- with .intro }}<p class="lede">{{ . }}</p>{{ end }}
+    {{- range .groups }}
+    <section class="start-group" aria-labelledby="start-{{ .title | urlize }}">
+      <h2 id="start-{{ .title | urlize }}">{{ .title }}</h2>
+      {{ partial "level.html" (dict "animated" false) }}
+      <ol>
+        {{- range .posts }}
+          {{- $p := site.GetPage . -}}
+          {{- if $p }}
+          <li>
+            <a class="entry" href="{{ $p.RelPermalink }}">
+              <time datetime="{{ $p.Date.Format "2006-01-02" }}">{{ $p.Date.Format "2006" }}</time>
+              <span class="entry-title">{{ $p.Title }}</span>
+            </a>
+          </li>
+          {{- else }}
+            {{- warnf "start-here: no page at %q" . }}
+          {{- end }}
+        {{- end }}
+      </ol>
+    </section>
+    {{- end }}
+  </section>
+  {{- end }}
+{{- end }}
+<section class="recent" aria-labelledby="recent-heading">
+  <div class="section-head">
+    {{- if eq $pag.PageNumber 1 }}
+    <h2 id="recent-heading">Recent writing</h2>
+    {{- else }}
+    <h1 id="recent-heading">Recent writing</h1>
+    {{- end }}
+    <a href="{{ "archive/" | relURL }}">All posts by year</a>
+  </div>
+  {{ partial "level.html" (dict "animated" false) }}
+  {{- if $pag.Pages }}
+  <ul class="entries">
+    {{- range $pag.Pages }}
+      {{ partial "entry.html" . }}
+    {{- end }}
+  </ul>
+  {{ partial "pager.html" . }}
+  {{- else }}
+  <p>Nothing on the front page. Archived writing is on the <a href="{{ "archive/" | relURL }}">archive</a>.</p>
+  {{- end }}
+</section>
+{{ end }}

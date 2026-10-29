@@ -1,0 +1,33 @@
+{{ define "main" }}
+<header class="archive-head">
+  <h1>{{ .Title }}</h1>
+  {{ partial "level.html" (dict "animated" false) }}
+  {{- with .Content }}
+  <div class="prose">{{ . }}</div>
+  {{- end }}
+</header>
+{{- $posts := where site.RegularPages "Type" "post" -}}
+{{- $years := $posts.GroupByDate "2006" -}}
+<nav class="years" aria-label="Years">
+  {{- range $years }}
+  <a href="#y-{{ .Key }}">{{ .Key }}</a>
+  {{- end }}
+</nav>
+{{- range $years }}
+<section class="year" id="y-{{ .Key }}" aria-labelledby="y-heading-{{ .Key }}">
+  <h2 id="y-heading-{{ .Key }}">{{ .Key }}</h2>
+  {{ partial "level.html" (dict "animated" false) }}
+  <ul class="entries">
+    {{- range .Pages }}
+    <li>
+      <a class="entry" href="{{ .RelPermalink }}">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan" }}</time>
+        <span class="entry-title">{{ .Title }}</span>
+        {{- if .Params.archived }}<span class="flag">Archived</span>{{ end }}
+      </a>
+    </li>
+    {{- end }}
+  </ul>
+</section>
+{{- end }}
+{{ end }}

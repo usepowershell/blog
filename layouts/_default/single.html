@@ -1,0 +1,31 @@
+{{ define "main" }}
+<article class="essay{{ if and (eq .Type "post") (not .Date.IsZero) }} essay-dated{{ end }}">
+  {{- if and (eq .Type "post") (not .Date.IsZero) }}
+  <time class="margin-date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
+  {{- end }}
+  <header>
+    <h1>{{ .Title }}</h1>
+    {{ partial "level.html" (dict "animated" false) }}
+  </header>
+  <div class="prose">
+    {{ .Content }}
+  </div>
+  {{- if eq .Type "post" }}
+    {{ partial "share.html" . }}
+    <nav class="adjacent" aria-label="More posts">
+      {{- with .NextInSection }}
+      <a href="{{ .RelPermalink }}">
+        <span class="adjacent-label">Newer</span>
+        <span>{{ .Title }}</span>
+      </a>
+      {{- end }}
+      {{- with .PrevInSection }}
+      <a href="{{ .RelPermalink }}">
+        <span class="adjacent-label">Older</span>
+        <span>{{ .Title }}</span>
+      </a>
+      {{- end }}
+    </nav>
+  {{- end }}
+</article>
+{{ end }}

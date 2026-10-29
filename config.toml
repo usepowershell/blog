@@ -1,27 +1,28 @@
-theme = "ghostwriter"
-disablePathToLower = true
+# Layouts live in /layouts. Ghostwriter was removed in the visual refresh.
+# Hugo stays on the workflow pin (v0.123.8). languageCode is still the
+# setting that version reads; it does not warn about it.
 title = "The More Things Change"
 languageCode = "en-us"
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License"
 rssLimit = 10
+paginate = 10
 relativeURLs = false
-googleAnalytics = "UA-36317457-1"
-disqusShortname = "stevenmurawski"
+disablePathToLower = true
 
 [permalinks]
 post = "/:year/:month/:filename/"
 
 [params]
+description = "Essays by Steven Murawski on operations, configuration management, and the work of an IT career."
 github = "https://github.com/usepowershell"
 linkedin = "https://linkedin.com/in/usepowershell"
-twitter = "https://twitter.com/usepowershell"
+x = "https://x.com/usepowershell"
 stackoverflow = "https://stackoverflow.com/users/1233/steven-murawski"
-shareTwitter = true
+shareX = true
 shareFacebook = true
-shareGooglePlus = true
 shareLinkedIn = true
 
-[author]
+[params.author]
 name = "Steven Murawski"
 email = "steven.murawski@gmail.com"
 
@@ -39,3 +40,8 @@ weight = 2
 name = "DevOps Reading List"
 url = "/page/devops-reading-list"
 weight = 3
+
+[[menu.main]]
+name = "Archive"
+url = "/archive/"
+weight = 4

@@ -1,0 +1,26 @@
+# Home page reading list. Order inside a group is the order shown.
+# Paths are Hugo content paths (content/<path>).
+intro: "A way in. Career essays and configuration-management pieces that still apply."
+groups:
+  - title: Career
+    posts:
+      - post/will-you-be-left-behind.md
+      - post/next-next-next-finished-is-not-job-security.md
+      - post/future-proofing-your-career-or-reading-tea-leaves.md
+      - post/should-it-pros-program.md
+      - post/'i-am-not-a-developer'-is-bull-feces.md
+      - post/forward-my-good-sysadmin-forward-i-say.md
+      - post/the-evolution-of-the-it-pro-sysadmin.md
+      - post/why-devops-is-not-a-person-or-team.md
+      - post/devops-and-agile.md
+      - post/the-shipping-mindset.md
+      - post/slow-is-fast.md
+      - post/confessions-of-a-cloud-denier.md
+      - post/blue-skies-ahead.md
+  - title: Configuration management
+    posts:
+      - post/there-is-no-configuration-management-special-sauce.md
+      - post/starting-with-configuration-management-be-realisitic-with-your-expectations.md
+      - post/the-seduction-of-the-management-abstraction.md
+      - post/dsc-what-is-it-for-really.md
+      - post/legacy-environments-are-ok-too-right.md
