@@ -24,7 +24,6 @@
 {{- if eq $pag.PageNumber 1 -}}
   {{- with index site.Data "start-here" }}
   <div class="start">
-    {{- with .intro }}<p class="lede">{{ . }}</p>{{ end }}
     {{- range .groups }}
     <section class="start-group" aria-labelledby="start-{{ .title | urlize }}">
       <h2 id="start-{{ .title | urlize }}">{{ .title }}</h2>
