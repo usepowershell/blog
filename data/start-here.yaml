@@ -1,4 +1,6 @@
-# Home page reading list. Order inside a group is the order shown.
+# Home page reading list, shown after Recent posts.
+# Group order is the section order. Posts in each group are sorted
+# newest to oldest by date; the order of paths here does not matter.
 # Paths are Hugo content paths (content/<path>).
 intro: "A way in. Career essays and configuration-management pieces that still apply."
 groups:

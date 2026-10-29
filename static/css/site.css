@@ -328,36 +328,23 @@ h3 {
   color: var(--link);
 }
 
-.start h1 {
-  margin-bottom: 0;
+.start {
+  margin-top: 2.5rem;
+}
+
+.recent .section-head {
+  margin-top: 0;
 }
 
 .start-group h2 {
   margin-bottom: 0;
 }
 
-.start ol,
 .entries,
 .terms {
   list-style: none;
   margin: 0.4rem 0 0;
   padding: 0;
-}
-
-.start ol {
-  list-style: decimal;
-  padding-left: 1.6rem;
-}
-
-.start li::marker {
-  color: var(--mark);
-  font-family: var(--font-station);
-  font-weight: 700;
-  font-size: 1.25rem;
-}
-
-.start li {
-  margin: 0.15rem 0;
 }
 
 .entry {
@@ -368,10 +355,6 @@ h3 {
   color: var(--ink);
   text-decoration: none;
   padding: 0.4rem 0;
-}
-
-.start .entry {
-  grid-template-columns: 3.25rem minmax(0, 1fr);
 }
 
 .entry time {

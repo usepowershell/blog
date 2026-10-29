@@ -85,7 +85,7 @@ Body measure is 68 characters. Headings use a clear size step and more space abo
 
 The sheet is at most 48rem and shares its edges with the masthead and the footer. On a wide screen the post date sits in a left margin beside the title. Below 800px that date stacks above the title. Below 560px list rows stack the date over the title.
 
-Home, page one: Start here (ordered), then recent writing, ten posts to a page. Later home pages are only the recent list. The archive is every post grouped by year, with a year index at the top.
+Home, page one: Recent posts, then Career, then Configuration management. Each list is newest first by post date. Recent posts are ten to a page; later home pages are only that list. The archive is every post grouped by year, with a year index at the top.
 
 ## Elevation & Depth
 

@@ -1,43 +1,12 @@
 {{ define "main" }}
 {{- $posts := where site.RegularPages "Type" "post" -}}
 {{- $posts = where $posts "Params.archived" "ne" true -}}
+{{- $posts = sort $posts "Title" "asc" -}}
+{{- $posts = sort $posts "Date" "desc" -}}
 {{- $pag := .Paginate $posts -}}
-{{- if eq $pag.PageNumber 1 -}}
-  {{- with index site.Data "start-here" }}
-  <section class="start" aria-labelledby="start-heading">
-    <h1 id="start-heading">Start here</h1>
-    {{- with .intro }}<p class="lede">{{ . }}</p>{{ end }}
-    {{- range .groups }}
-    <section class="start-group" aria-labelledby="start-{{ .title | urlize }}">
-      <h2 id="start-{{ .title | urlize }}">{{ .title }}</h2>
-      {{ partial "level.html" (dict "animated" false) }}
-      <ol>
-        {{- range .posts }}
-          {{- $p := site.GetPage . -}}
-          {{- if $p }}
-          <li>
-            <a class="entry" href="{{ $p.RelPermalink }}">
-              <time datetime="{{ $p.Date.Format "2006-01-02" }}">{{ $p.Date.Format "2006" }}</time>
-              <span class="entry-title">{{ $p.Title }}</span>
-            </a>
-          </li>
-          {{- else }}
-            {{- warnf "start-here: no page at %q" . }}
-          {{- end }}
-        {{- end }}
-      </ol>
-    </section>
-    {{- end }}
-  </section>
-  {{- end }}
-{{- end }}
 <section class="recent" aria-labelledby="recent-heading">
   <div class="section-head">
-    {{- if eq $pag.PageNumber 1 }}
-    <h2 id="recent-heading">Recent writing</h2>
-    {{- else }}
-    <h1 id="recent-heading">Recent writing</h1>
-    {{- end }}
+    <h1 id="recent-heading">Recent posts</h1>
     <a href="{{ "archive/" | relURL }}">All posts by year</a>
   </div>
   {{ partial "level.html" (dict "animated" false) }}
@@ -52,4 +21,32 @@
   <p>Nothing on the front page. Archived writing is on the <a href="{{ "archive/" | relURL }}">archive</a>.</p>
   {{- end }}
 </section>
+{{- if eq $pag.PageNumber 1 -}}
+  {{- with index site.Data "start-here" }}
+  <div class="start">
+    {{- with .intro }}<p class="lede">{{ . }}</p>{{ end }}
+    {{- range .groups }}
+    <section class="start-group" aria-labelledby="start-{{ .title | urlize }}">
+      <h2 id="start-{{ .title | urlize }}">{{ .title }}</h2>
+      {{ partial "level.html" (dict "animated" false) }}
+      {{- $pages := slice -}}
+      {{- range .posts }}
+        {{- with site.GetPage . }}
+          {{- $pages = $pages | append . -}}
+        {{- else }}
+          {{- warnf "start-here: no page at %q" . -}}
+        {{- end }}
+      {{- end }}
+      <ul class="entries">
+        {{- $pages = sort $pages "Title" "asc" -}}
+        {{- $pages = sort $pages "Date" "desc" -}}
+        {{- range $pages }}
+          {{ partial "entry.html" . }}
+        {{- end }}
+      </ul>
+    </section>
+    {{- end }}
+  </div>
+  {{- end }}
+{{- end }}
 {{ end }}
