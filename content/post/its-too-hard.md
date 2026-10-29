@@ -33,7 +33,7 @@ And on and on.
 We learn and do hard things all the time.&nbsp; They get easier each time we do them, especially if we do them often.
 
 
-Go forth and learn something difficult.&nbsp; This week I'm going to learn <a href="http://golang.org/" target="_blank">Go.</a>
+Go forth and learn something difficult.&nbsp; This week I'm going to learn <a href="https://golang.org/" target="_blank">Go.</a>
 
 
 **What will you learn?**

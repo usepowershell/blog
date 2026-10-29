@@ -79,7 +79,7 @@ So, where do we get dev builds and where do developers work from?
 
 ### The Workflow
 
-This is just an abbreviated version of my takeaways from the book [Continuous Delivery](http://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912) and agumented by my work both in internal and open source projects.  I heartily recommend reading Continuous Delivery for a deeper treatment of the topic.
+This is just an abbreviated version of my takeaways from the book [Continuous Delivery](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912) and agumented by my work both in internal and open source projects.  I heartily recommend reading Continuous Delivery for a deeper treatment of the topic.
 
 #### Working locally
 

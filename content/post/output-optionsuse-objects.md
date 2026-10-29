@@ -64,5 +64,5 @@ Since PowerShell is so easy to extend, your option options are as limitless as y
 
 
 
-If you are thinking, "Hey, fine, if you are going to be so authoritarian on scripts.. I'll just write functions (or cmdlets)." You are sadly mistaken.  This all applies to functions and cmdlets as well.  (Scripts, functions, and cmdlets all operate similarly and should follow this basic advice.  Send your output as objects and let the user decide how they want to format, serialize, display, or otherwise manipulate it. (Thanks to <a href="http://powershellstation.com" target="_blank">Mike Shepard</a> for reminding me about that.)
+If you are thinking, "Hey, fine, if you are going to be so authoritarian on scripts.. I'll just write functions (or cmdlets)." You are sadly mistaken.  This all applies to functions and cmdlets as well.  (Scripts, functions, and cmdlets all operate similarly and should follow this basic advice.  Send your output as objects and let the user decide how they want to format, serialize, display, or otherwise manipulate it. (Thanks to <a href="https://powershellstation.com" target="_blank">Mike Shepard</a> for reminding me about that.)
 

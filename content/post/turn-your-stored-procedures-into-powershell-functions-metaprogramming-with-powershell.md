@@ -14,7 +14,7 @@ title: Turn Your Stored Procedures Into PowerShell Functions - MetaProgramming W
 
 ---
 
-**UPDATE: The script was moved to Google Code.  The links in the post have been updated to reflect that.  Or you can just go here... <a href="http://code.google.com/p/poshcodegen/" target="_blank">http://code.google.com/p/poshcodegen/</a>**
+**UPDATE: The script was moved to Google Code.  The links in the post have been updated to reflect that.  Or you can just go here... <a href="https://code.google.com/p/poshcodegen/" target="_blank">https://code.google.com/p/poshcodegen/</a>**
 I’ve been working on some data conversion at work, converting records from one system to a new system.  I’ve built quite a library of SQL queries with PowerShell wrappers for dealing with data in the first system, but I don’t have the same luxury with the new system.
 
 
@@ -59,7 +59,7 @@ Since I know PowerShell, to build dynamic functions I just have to create text t
 
 
 
-Here’s what <a href="http://code.google.com/p/poshcodegen/" target="_blank">my script</a> does after it runs a query against the database to get the stored procedure’s text:
+Here’s what <a href="https://code.google.com/p/poshcodegen/" target="_blank">my script</a> does after it runs a query against the database to get the stored procedure’s text:
 
 
 
@@ -85,7 +85,7 @@ Here’s what <a href="http://code.google.com/p/poshcodegen/" target="_blank">my
 
 
 
-<a href="http://code.google.com/p/poshcodegen/" target="_blank">New-StoredProcFunction.ps1 here.</a>
+<a href="https://code.google.com/p/poshcodegen/" target="_blank">New-StoredProcFunction.ps1 here.</a>
 
 
 

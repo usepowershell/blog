@@ -40,7 +40,7 @@ Yes, the pace of change is rapid and we can't learn everything in our space, but
 And to my fellow Windows administrators, don't let anyone take your skills for granted.&nbsp; Our work, knowledge, and skill set is valuable (but only while we keep it current).
 
 
-[In the words of Stuart Smalley: ](http://www.imdb.com/character/ch0001962/quotes)
+[In the words of Stuart Smalley: ](https://www.imdb.com/character/ch0001962/quotes)
 
 
 >

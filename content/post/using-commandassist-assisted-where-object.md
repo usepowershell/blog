@@ -10,7 +10,7 @@ title: Using CommandAssist - Assisted Where-Object
 
 ---
 
-To use <a href="http://download.usepowershell.com/commandassist.zip" target="_blank">CommandAssist</a>, the first step you will need to take is to have <a href="http://showui.codeplex.com/" target="_blank">ShowUI</a> (at least 1.1) installed and run <a href="http://technet.microsoft.com/en-us/library/dd315276.aspx" target="_blank">PowerShell in STA mode</a>.
+To use <a href="http://download.usepowershell.com/commandassist.zip" target="_blank">CommandAssist</a>, the first step you will need to take is to have <a href="http://showui.codeplex.com/" target="_blank">ShowUI</a> (at least 1.1) installed and run <a href="https://technet.microsoft.com/en-us/library/dd315276.aspx" target="_blank">PowerShell in STA mode</a>.
 
 
 
@@ -26,7 +26,7 @@ When you hit enter, you will see a screen like the below.
 
 
 
-<a href="http://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf4c1e4b0c945709cfb80/1312786472000/?format=original">![image](http://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf4c1e4b0c945709cfb83/1312786473000/?format=original "image")</a>
+<a href="https://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf4c1e4b0c945709cfb80/1312786472000/?format=original">![image](https://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf4c1e4b0c945709cfb83/1312786473000/?format=original "image")</a>
 
 
 

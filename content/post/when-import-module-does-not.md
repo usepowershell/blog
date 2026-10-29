@@ -44,7 +44,7 @@ Get-BitsTransfer
 Get-Module</pre>
 
     
-    This example (when used in PowerShell V3) will (from a base PowerShell session) show you what modules are loaded, attempt to run the Get-BitsTransfer command, and then show you what modules are now loaded (should include the BitsTransfer module now).&#160; Since we’ve provided an empty array to the Alias parameter for <a href="http://go.microsoft.com/fwlink/?LinkID=141553" target="_blank">Import-Module</a>, any module that is imported will import any aliases.
+    This example (when used in PowerShell V3) will (from a base PowerShell session) show you what modules are loaded, attempt to run the Get-BitsTransfer command, and then show you what modules are now loaded (should include the BitsTransfer module now).&#160; Since we’ve provided an empty array to the Alias parameter for <a href="https://go.microsoft.com/fwlink/?LinkID=141553" target="_blank">Import-Module</a>, any module that is imported will import any aliases.
     
 
     
@@ -109,7 +109,7 @@ This did import the BitsTransfer, but no commands or variables were imported.&#1
 
 
 
-First of all, open PowerShell and try it!&#160; If you have one of the CTPs of Version 3, try it there.&#160; Also try it in V2 using <a href="http://go.microsoft.com/fwlink/?LinkID=141553" target="_blank">Import-Module</a> directly. 
+First of all, open PowerShell and try it!&#160; If you have one of the CTPs of Version 3, try it there.&#160; Also try it in V2 using <a href="https://go.microsoft.com/fwlink/?LinkID=141553" target="_blank">Import-Module</a> directly. 
 
 
 

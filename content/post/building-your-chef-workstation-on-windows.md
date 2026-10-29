@@ -104,7 +104,7 @@ In cookbooks/local/Berksfile
 ```
 source 'https://supermarket.chef.io'
 metadata
-cookbook 'winbox', git: 'https://github.com/smurawski/winbox.git', branch: 'smurawski/updates'
+cookbook 'winbox', git: 'https://github.com/usepowershell/winbox.git', branch: 'smurawski/updates'
 ```
 
 
@@ -392,7 +392,7 @@ include_recipe 'local::packages'
 
 
 
-*If you want compare your cookbook to what I put together, you can find the finished cookbook on GitHub at https://github.com/smurawski/local *
+*If you want compare your cookbook to what I put together, you can find the finished cookbook on GitHub at https://github.com/usepowershell/local *
 
 
 Now that we've got our wrapper cookbook in place, along with some customizations, we can get ready to run our recipe.

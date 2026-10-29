@@ -13,7 +13,7 @@ title: Exploring the .NET Framework with PowerShell – Calling a Method (Part 2
 
 ---
 
-Continuing from where [I left off last week](/blog/2009/02/exploring-the-net-framework-with-powershell-calling-a-method-part-2a), we were created an instance of the <a href="http://msdn.microsoft.com/en-us/library/system.net.networkinformation.ping.aspx" target="_blank">System.Net.NetworkInformation.Ping</a> class and looked at the different ways (overloads) that we can call the Send method.&#160; Now that we’ve seen how we can create Ping objects, let’s take advantage of options for creating some custom ping packets and examine the return object.
+Continuing from where [I left off last week](/blog/2009/02/exploring-the-net-framework-with-powershell-calling-a-method-part-2a), we were created an instance of the <a href="https://msdn.microsoft.com/en-us/library/system.net.networkinformation.ping.aspx" target="_blank">System.Net.NetworkInformation.Ping</a> class and looked at the different ways (overloads) that we can call the Send method.&#160; Now that we’ve seen how we can create Ping objects, let’s take advantage of options for creating some custom ping packets and examine the return object.
 
 
 
@@ -45,15 +45,15 @@ Name&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#16
 
 
 
-Get-Member shows us that this is a <a href="http://msdn.microsoft.com/en-us/library/system.net.networkinformation.pingreply.aspx" target="_blank">PingReply</a> object in the <a href="http://msdn.microsoft.com/en-us/library/system.net.networkinformation.aspx" target="_blank">System.Net.NetworkInformation</a> namespace.
+Get-Member shows us that this is a <a href="https://msdn.microsoft.com/en-us/library/system.net.networkinformation.pingreply.aspx" target="_blank">PingReply</a> object in the <a href="https://msdn.microsoft.com/en-us/library/system.net.networkinformation.aspx" target="_blank">System.Net.NetworkInformation</a> namespace.
 
 
 
-Looking at the <a href="http://msdn.microsoft.com/en-us/library/system.net.networkinformation.pingreply.aspx" target="_blank">PingReply</a> object that was returned, we have several methods that look strangely similar to the properties, but with a “get_” prefixed to it.&#160; When you see a method that matches a Property, but has “get_” or “set_”, that is a method exposed by the <a href="http://msdn.microsoft.com/en-us/netframework/default.aspx" target="_blank">.NET Framework</a> that provides the functionality for the properties.&#160; When you access the Buffer property, you are actually calling the get_Buffer method.&#160; Properties are, for the most part, easier to work with and you can effectively ignore those methods.&#160; Properties also contain a clue in their description, if you look at the end of the Buffer property’s description, you see “{get;}” which indicates that there is a way to retrieve that property.&#160; Properties can also show “{set;}” which indicates that you can update that property.
+Looking at the <a href="https://msdn.microsoft.com/en-us/library/system.net.networkinformation.pingreply.aspx" target="_blank">PingReply</a> object that was returned, we have several methods that look strangely similar to the properties, but with a “get_” prefixed to it.&#160; When you see a method that matches a Property, but has “get_” or “set_”, that is a method exposed by the <a href="https://msdn.microsoft.com/en-us/netframework/default.aspx" target="_blank">.NET Framework</a> that provides the functionality for the properties.&#160; When you access the Buffer property, you are actually calling the get_Buffer method.&#160; Properties are, for the most part, easier to work with and you can effectively ignore those methods.&#160; Properties also contain a clue in their description, if you look at the end of the Buffer property’s description, you see “{get;}” which indicates that there is a way to retrieve that property.&#160; Properties can also show “{set;}” which indicates that you can update that property.
 
 
 
-In <a href="http://www.microsoft.com/DOWNLOADS/details.aspx?FamilyID=c913aeab-d7b4-4bb1-a958-ee6d7fe307bc&amp;displaylang=en" target="_blank">PowerShell V2 CTP3</a> those “getters” and “setters” (as those methods are commonly called) are hidden by default.&#160; If you are running CTP3 and want to see the “getters” and “setters”, you can call Get-Member with the Force parameter.
+In <a href="https://www.microsoft.com/DOWNLOADS/details.aspx?FamilyID=c913aeab-d7b4-4bb1-a958-ee6d7fe307bc&amp;displaylang=en" target="_blank">PowerShell V2 CTP3</a> those “getters” and “setters” (as those methods are commonly called) are hidden by default.&#160; If you are running CTP3 and want to see the “getters” and “setters”, you can call Get-Member with the Force parameter.
 
 
 
@@ -85,7 +85,7 @@ PS C:\&gt; $response.Status    <br>Success
 
 
 
-Now, we can see from the Get-Member return above, that Status is not just a string that says, “Success”, it is a <a href="http://msdn.microsoft.com/en-us/library/system.net.networkinformation.ipstatus.aspx" target="_blank">IPStatus</a> enumeration (more on enumerations coming up, but long story short, there are a number of predefined values that an <a href="http://msdn.microsoft.com/en-us/library/system.net.networkinformation.ipstatus.aspx" target="_blank">IPStatus</a> object can hold)(also found in the <a href="http://msdn.microsoft.com/en-us/library/system.net.networkinformation.aspx" target="_blank">System.Net.NetworkInformation</a> namespace).&#160; 
+Now, we can see from the Get-Member return above, that Status is not just a string that says, “Success”, it is a <a href="https://msdn.microsoft.com/en-us/library/system.net.networkinformation.ipstatus.aspx" target="_blank">IPStatus</a> enumeration (more on enumerations coming up, but long story short, there are a number of predefined values that an <a href="https://msdn.microsoft.com/en-us/library/system.net.networkinformation.ipstatus.aspx" target="_blank">IPStatus</a> object can hold)(also found in the <a href="https://msdn.microsoft.com/en-us/library/system.net.networkinformation.aspx" target="_blank">System.Net.NetworkInformation</a> namespace).&#160; 
 
 
 
@@ -101,7 +101,7 @@ PS C:\&gt; $response.status -eq $success    <br>True
 
 
 
-I could compare the string results, but then I’m stepping back to parsing text results.&#160; By using the <a href="http://msdn.microsoft.com/en-us/library/system.net.networkinformation.ipstatus.aspx" target="_blank">IPStatus</a> enumeration values, I can get be reasonably sure that my value are correct and I don’t have any text matching issues.
+I could compare the string results, but then I’m stepping back to parsing text results.&#160; By using the <a href="https://msdn.microsoft.com/en-us/library/system.net.networkinformation.ipstatus.aspx" target="_blank">IPStatus</a> enumeration values, I can get be reasonably sure that my value are correct and I don’t have any text matching issues.
 
 
 

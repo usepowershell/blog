@@ -9,7 +9,7 @@ title: Wisconsin Virtual SQL Server Lunch and Learn
 
 ---
 
-I just finished taking up 13 people’s lunch hour to talk a bit about <a href="http://msdn.microsoft.com/en-us/library/ms714418(VS.85).aspx" target="_blank">PowerShell</a> V2, SQL Server, and the <a href="http://blogs.msdn.com/powershell/archive/2007/01/01/the-admin-development-model-and-send-snippet.aspx" target="_blank">admin development model</a>.
+I just finished taking up 13 people’s lunch hour to talk a bit about <a href="https://msdn.microsoft.com/en-us/library/ms714418(VS.85).aspx" target="_blank">PowerShell</a> V2, SQL Server, and the <a href="http://blogs.msdn.com/powershell/archive/2007/01/01/the-admin-development-model-and-send-snippet.aspx" target="_blank">admin development model</a>.
 
 
 

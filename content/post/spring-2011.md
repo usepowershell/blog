@@ -22,11 +22,11 @@ March 26th – I’m going to <a href="http://www.sqlsaturday.com/eventhome.aspx
 
 
 
-April 17th-19th – I’ll be at the <a href="http://blogs.msdn.com/b/powershell/archive/2011/02/04/powershell-deep-dive-conference.aspx" target="_blank">PowerShell Deep Dive</a> at <a href="http://www.theexpertsconference.com/us/2011/" target="_blank">The Expert’s Conference</a> in Las Vegas.
+April 17th-19th – I’ll be at the <a href="http://blogs.msdn.com/b/powershell/archive/2011/02/04/powershell-deep-dive-conference.aspx" target="_blank">PowerShell Deep Dive</a> at <a href="https://www.theexpertsconference.com/us/2011/" target="_blank">The Expert’s Conference</a> in Las Vegas.
 
 
 
-April 29th-30th – I’ll be at the <a href="http://www.picconf.org/" target="_blank">PICC (Professional IT Community Conference) in New Brunswick, NJ</a>.&#160; I’ll be teaching a half day class on PowerShell Fundamentals.
+April 29th-30th – I’ll be at the <a href="https://www.picconf.org/" target="_blank">PICC (Professional IT Community Conference) in New Brunswick, NJ</a>.&#160; I’ll be teaching a half day class on PowerShell Fundamentals.
 
 
 

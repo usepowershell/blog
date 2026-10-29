@@ -13,12 +13,12 @@ title: Exploring the .NET Framework with PowerShell – Static Members (Part 4)
 
 ---
 
-In our [Exploring the .NET Framework series](http://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf517e4b0c945709cff39/1353512215537/?format=original), we’ve covered some terminology, creating instances of objects and calling methods.  In today’s installment, we are going to look at using static members - methods and properties.  Static methods are methods that a class (or type) make available without needing to create an instance of the class.  Similarly, static properties are properties that you can access without needing an instance of the class.
+In our [Exploring the .NET Framework series](https://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf517e4b0c945709cff39/1353512215537/?format=original), we’ve covered some terminology, creating instances of objects and calling methods.  In today’s installment, we are going to look at using static members - methods and properties.  Static methods are methods that a class (or type) make available without needing to create an instance of the class.  Similarly, static properties are properties that you can access without needing an instance of the class.
 Many classes provide static members supply functionality where it doesn’t make sense to need an object. 
 
 
 
-The <a href="http://msdn.microsoft.com/en-us/library/system.math.aspx" target="_blank">System.Math</a> class contains a couple of static properties, PI and E. 
+The <a href="https://msdn.microsoft.com/en-us/library/system.math.aspx" target="_blank">System.Math</a> class contains a couple of static properties, PI and E. 
 
 
 
@@ -29,7 +29,7 @@ PS C:\scripts\PowerShell&gt; [math]::PI
 
 
 
-Constant values are not the only type of property that you’ll find.  The <a href="http://msdn.microsoft.com/en-us/library/system.appdomain.aspx" target="_blank">System.AppDomain</a> class has a static property, <a href="http://msdn.microsoft.com/en-us/library/system.appdomain.currentdomain.aspx" target="_blank">CurrentDomain</a>, which is an AppDomain instance referring to the current application domain.
+Constant values are not the only type of property that you’ll find.  The <a href="https://msdn.microsoft.com/en-us/library/system.appdomain.aspx" target="_blank">System.AppDomain</a> class has a static property, <a href="https://msdn.microsoft.com/en-us/library/system.appdomain.currentdomain.aspx" target="_blank">CurrentDomain</a>, which is an AppDomain instance referring to the current application domain.
 
 
 
@@ -84,7 +84,7 @@ Truncate
 
 
 
-I wrote a little helper function to get the static method definitions (<a href="http://poshcode.org/968" target="_blank">Get-StaticMethodDefinition</a>), which you can grab from <a href="http://poshcode.org/" target="_blank">PoshCode.org</a>.
+I wrote a little helper function to get the static method definitions (<a href="http://poshcode.org/968" target="_blank">Get-StaticMethodDefinition</a>), which you can grab from <a href="https://poshcode.org/" target="_blank">PoshCode.org</a>.
 
 
 
@@ -96,11 +96,11 @@ One type of static method that I would like to highlight is the factory method.�
 
 
 
-An example of this is the <a href="http://msdn.microsoft.com/en-us/library/system.net.webrequest.aspx" target="_blank">System.Net.WebRequest’s</a> Create method.
+An example of this is the <a href="https://msdn.microsoft.com/en-us/library/system.net.webrequest.aspx" target="_blank">System.Net.WebRequest’s</a> Create method.
 
 
 
-PS C:\scripts\PowerShell&gt; $web = [net.webrequest]::create('[http://www.google.com](http://www.google.com)')
+PS C:\scripts\PowerShell&gt; $web = [net.webrequest]::create('[https://www.google.com](https://www.google.com)')
 PS C:\scripts\PowerShell&gt; $web.gettype()
 
 
@@ -111,7 +111,7 @@ True     True     HttpWebRequest                    
 
 
 
-The factory method Create used the argument (‘http://www.google.com’) to determine the type of <a href="http://msdn.microsoft.com/en-us/library/system.net.webrequest.aspx" target="_blank">WebRequest</a> object to create.  In this case, it created an <a href="http://msdn.microsoft.com/en-us/library/system.net.httpwebrequest.aspx" target="_blank">HttpWebRequest</a> object, which is a more specialized version of the WebRequest for HTTP requests. 
+The factory method Create used the argument (‘https://www.google.com’) to determine the type of <a href="https://msdn.microsoft.com/en-us/library/system.net.webrequest.aspx" target="_blank">WebRequest</a> object to create.  In this case, it created an <a href="https://msdn.microsoft.com/en-us/library/system.net.httpwebrequest.aspx" target="_blank">HttpWebRequest</a> object, which is a more specialized version of the WebRequest for HTTP requests. 
 
 
 
@@ -130,7 +130,7 @@ True     False    FtpWebRequest                     
 
 
 
-As we can see, the WebRequest class created an <a href="http://msdn.microsoft.com/en-us/library/system.net.ftpwebrequest.aspx" target="_blank">FtpWebRequest</a> object.
+As we can see, the WebRequest class created an <a href="https://msdn.microsoft.com/en-us/library/system.net.ftpwebrequest.aspx" target="_blank">FtpWebRequest</a> object.
 
 
 
@@ -138,9 +138,9 @@ Factory methods provide developers a way to more flexibly support different oper
 
 
 
-**UPDATE:  <a href="http://huddledmasses.org/" target="_self">Joel "Jaykul" Bennet</a> added a <a href="http://poshcode.org/969" target="_blank">V2 advanced function to convert static methods to functions</a> to PoShCode.org  and pointed out <a href="http://www.nivot.org/2007/08/13/CreatingFunctionsFromANETClasssStaticMethods.aspx" target="_blank">Oisin Grehan's blog post about creating functions from static methods (V1 compatible)</a>.**
+**UPDATE:  <a href="https://huddledmasses.org/" target="_self">Joel "Jaykul" Bennet</a> added a <a href="http://poshcode.org/969" target="_blank">V2 advanced function to convert static methods to functions</a> to PoShCode.org  and pointed out <a href="http://www.nivot.org/2007/08/13/CreatingFunctionsFromANETClasssStaticMethods.aspx" target="_blank">Oisin Grehan's blog post about creating functions from static methods (V1 compatible)</a>.**
 
 
 
-I’ve been really happy to receive some of the feedback (positive and constructive criticism) on this series.  There is a lot of the <a href="http://msdn.microsoft.com/en-us/netframework/default.aspx" target="_blank">.NET Framework</a> to cover, and I’m open to suggestions as to what you would like to know.  Please post a comment on the blog or email me at Steve at UsePowerShell.Com.
+I’ve been really happy to receive some of the feedback (positive and constructive criticism) on this series.  There is a lot of the <a href="https://msdn.microsoft.com/en-us/netframework/default.aspx" target="_blank">.NET Framework</a> to cover, and I’m open to suggestions as to what you would like to know.  Please post a comment on the blog or email me at Steve at UsePowerShell.Com.
 

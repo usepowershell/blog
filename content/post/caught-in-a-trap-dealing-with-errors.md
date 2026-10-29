@@ -22,7 +22,7 @@ Errors occur.&#160; Things fail.&#160; As an author of a script, you need to be 
 
 
 
-PowerShell has different types of errors ([I explain some of that here.](http://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf51ae4b0c945709cff50/1353512218638/?format=original))&#160; Terminating errors can ruin a script's day.&#160; Say you are trying to gather information or update settings to a large number of servers.&#160; What happens when you hit an error on server number three, or number 33, or number 333?&#160; You'll know you hit an error on that item, 
+PowerShell has different types of errors ([I explain some of that here.](https://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf51ae4b0c945709cff50/1353512218638/?format=original))&#160; Terminating errors can ruin a script's day.&#160; Say you are trying to gather information or update settings to a large number of servers.&#160; What happens when you hit an error on server number three, or number 33, or number 333?&#160; You'll know you hit an error on that item, 
 
 
 

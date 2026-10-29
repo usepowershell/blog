@@ -12,10 +12,10 @@ title: Special Event - Kanban and DSC
 
 
 
-I'm working with [Jessica DeVita](https://twitter.com/ubergeekgirl), [Dominica DeGrandis](https://twitter.com/dominicad), and [J. Paul Reed](https://twitter.com/soberbuildeng) to help put on a [two day event in Los Angeles designed to help you level up your operations game](http://kanbandsc-devops.eventbrite.com/). &nbsp;
+I'm working with [Jessica DeVita](https://twitter.com/ubergeekgirl), [Dominica DeGrandis](https://twitter.com/dominicad), and [J. Paul Reed](https://twitter.com/soberbuildeng) to help put on a [two day event in Los Angeles designed to help you level up your operations game](https://kanbandsc-devops.eventbrite.com/). &nbsp;
 
 
-This is training that would normally run over a $1000 - and you can go for $100 - with all the proceeds going to [Girls Who Code](http://girlswhocode.com/), which is a national nonprofit working to close the gender gap in technology and engineering.
+This is training that would normally run over a $1000 - and you can go for $100 - with all the proceeds going to [Girls Who Code](https://girlswhocode.com/), which is a national nonprofit working to close the gender gap in technology and engineering.
 <h3 style="margin-left:0px; margin-right:0px"><span style="font-size:small">**<span>Description:</span>**</span>
 
 

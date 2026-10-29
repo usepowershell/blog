@@ -42,5 +42,5 @@ I still have to add some checks for the various constraints, but that will come 
 
 
 
-You can find <a href="http://poshcode.org/865" target="_blank">the script</a> on <a href="http://poshcode.org/" target="_blank">PoShCode.org</a>.
+You can find <a href="http://poshcode.org/865" target="_blank">the script</a> on <a href="https://poshcode.org/" target="_blank">PoShCode.org</a>.
 

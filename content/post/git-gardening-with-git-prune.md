@@ -17,12 +17,12 @@ Every time I fetch from GitHub, I get all the current branches. &nbsp;Branches t
 However, from time to time, I want to clean up those remote branches that do not exist anymore.
 
 
-[Git pruning to the rescue!&nbsp;](http://git-scm.com/docs/git-prune)&nbsp;&nbsp;
+[Git pruning to the rescue!&nbsp;](https://git-scm.com/docs/git-prune)&nbsp;&nbsp;
 
 
 git remote prune origin</pre>
     
     To show what would be pruned:
     <pre>git remote prune origin--dry-run
-<p dir="ltr">There are more options with [git gc](http://git-scm.com/docs/git-gc)&nbsp;(and that is recommended), but git prune did what I was looking for.&nbsp;
+<p dir="ltr">There are more options with [git gc](https://git-scm.com/docs/git-gc)&nbsp;(and that is recommended), but git prune did what I was looking for.&nbsp;
 

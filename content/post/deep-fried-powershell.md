@@ -9,7 +9,7 @@ title: Deep Fried PowerShell
 
 ---
 
-Back in August, I was <strike>offered a chance to make a fool of myself on yet another podcast</strike> tremendously honored by <a href="http://deepfriedbytes.com/podcast/episode-46-using-powershell-to-be-more-productive-with-steven-murawski/" target="_blank">the opportunity</a> to talk with <a href="http://keithelder.net/blog/" target="_blank">Keith Elder</a> and <a href="http://chriswoodruff.com/" target="_blank">Chris “Woody” Woodruff</a> on their podcast – <a href="http://deepfriedbytes.com/" target="_blank">Deep Fried Bytes</a> – about <a href="http://msdn.microsoft.com/en-us/library/ms714418(VS.85).aspx" target="_blank">PowerShell</a>.
+Back in August, I was <strike>offered a chance to make a fool of myself on yet another podcast</strike> tremendously honored by <a href="http://deepfriedbytes.com/podcast/episode-46-using-powershell-to-be-more-productive-with-steven-murawski/" target="_blank">the opportunity</a> to talk with <a href="http://keithelder.net/blog/" target="_blank">Keith Elder</a> and <a href="https://chriswoodruff.com/" target="_blank">Chris “Woody” Woodruff</a> on their podcast – <a href="https://deepfriedbytes.com/" target="_blank">Deep Fried Bytes</a> – about <a href="https://msdn.microsoft.com/en-us/library/ms714418(VS.85).aspx" target="_blank">PowerShell</a>.
 
 
 

@@ -8,7 +8,7 @@ title: Upcoming Conferences
 
 ---
 
-### <a href="http://casitconf.org/casitconf13" target="_blank">Cascadia IT Conference</a>
+### <a href="https://casitconf.org/casitconf13" target="_blank">Cascadia IT Conference</a>
 
 
 
@@ -18,20 +18,20 @@ title: Upcoming Conferences
 I'll be back at the Cascadia IT Conference (March 15 and 16) for the second year. &nbsp;I'll be teaching a full day of PowerShell (PowerShell Fundamentals in the morning and Building Your PowerShell Toolkit in the afternoon). &nbsp;I'm also planning on hanging around for all the technical sessions on Saturday.
 
 
-If you are in the Seattle area, <a href="http://casitconf.org/casitconf13" target="_blank">this is a conference that is worth checking out</a>. &nbsp;There are some great tutorial (Root Cause Analysis, Introduction to Puppet, Building A Sysadmin Sandbox, amongst others). &nbsp;On Saturday, there are also technical sessions covering IPv6, InfoSec, Chef, Logstash, designing IT Emergency Drills, and much more.
+If you are in the Seattle area, <a href="https://casitconf.org/casitconf13" target="_blank">this is a conference that is worth checking out</a>. &nbsp;There are some great tutorial (Root Cause Analysis, Introduction to Puppet, Building A Sysadmin Sandbox, amongst others). &nbsp;On Saturday, there are also technical sessions covering IPv6, InfoSec, Chef, Logstash, designing IT Emergency Drills, and much more.
 
 
-### <a href="http://www.2013mms.com" target="_blank">Microsoft Managemen Summit</a><span style="font-size: 14px; font-weight: normal;"></span>
+### <a href="https://www.2013mms.com" target="_blank">Microsoft Managemen Summit</a><span style="font-size: 14px; font-weight: normal;"></span>
 
 
 
-<a href="http://www.2013mms.com/" target="_blank"></a>
+<a href="https://www.2013mms.com/" target="_blank"></a>
 
 
 I'll be at the Microsoft Management Summit (MMS) for the first time this year. &nbsp;I'll be co-presenting the Advanced Automation Using Windows PowerShell with Kenneth Hansen (the guy who runs the PowerShell team). &nbsp;This promises to be an awesome session. &nbsp;We'll be highlighting many of the enhancements to PowerShell V3 and the infrastructure in Server 2012.
 
 
-<a href="http://www.2013mms.com/" target="_blank"></a>
+<a href="https://www.2013mms.com/" target="_blank"></a>
 
 
 ### <a href="http://forensecure.sat.iit.edu/" target="_blank">ForenSecure</a>

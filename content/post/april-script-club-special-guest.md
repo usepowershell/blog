@@ -9,7 +9,7 @@ title: April Script Club – Special Guest
 
 ---
 
-The <a href="http://powershellgroup.org/milwaukee.wi" target="_blank">Greater Milwaukee Script Club</a> <a href="http://mkescriptclub.eventbrite.com" target="_blank">will be meeting on April 20th</a> and we will have a special guest – James Brundage (<a href="http://twitter.com/jamesbru" target="_blank">twitter</a> | <a href="http://blogs.msdn.com/MediaAndMicrocode/" target="_blank">blog</a> | <a href="http://blogs.msdn.com/powershell/" target="_blank">blog</a>).&#160; James is a member of the PowerShell team at Microsoft, as well as a blogger, community member, guest on the <a href="http://powerscripting.net/" target="_blank">PowerScripting Podcast</a>, and author of the <a href="http://code.msdn.microsoft.com/PowerShellPack" target="_blank">PowerShellPack</a> – part of the Windows Resource Kit.
+The <a href="http://powershellgroup.org/milwaukee.wi" target="_blank">Greater Milwaukee Script Club</a> <a href="https://mkescriptclub.eventbrite.com" target="_blank">will be meeting on April 20th</a> and we will have a special guest – James Brundage (<a href="https://twitter.com/jamesbru" target="_blank">twitter</a> | <a href="https://blogs.msdn.com/MediaAndMicrocode/" target="_blank">blog</a> | <a href="http://blogs.msdn.com/powershell/" target="_blank">blog</a>).&#160; James is a member of the PowerShell team at Microsoft, as well as a blogger, community member, guest on the <a href="https://powerscripting.net/" target="_blank">PowerScripting Podcast</a>, and author of the <a href="http://code.msdn.microsoft.com/PowerShellPack" target="_blank">PowerShellPack</a> – part of the Windows Resource Kit.
 
 
 
@@ -21,5 +21,5 @@ We have planned to talk a bit about error handling, and as always, work on **you
 
 
 
-If you are a PowerShell user or need to become a PowerShell user and are in southeastern Wisconsin, come on down, all are welcome (<a href="http://mkescriptclub.eventbrite.com" target="_blank">free registration requested</a>)!
+If you are a PowerShell user or need to become a PowerShell user and are in southeastern Wisconsin, come on down, all are welcome (<a href="https://mkescriptclub.eventbrite.com" target="_blank">free registration requested</a>)!
 

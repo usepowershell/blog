@@ -16,7 +16,7 @@ title: Adding Custom Properties to Functions
 
 ---
 
-A q<a href="http://stackoverflow.com/questions/544804/powershell-how-do-you-add-a-property-to-a-function-object-on-the-psdrive-functio" target="_blank">uestion</a> was asked on <a href="http://stackoverflow.com/" target="_blank">StackOverflow</a> regarding how to add properties to a function, and then be able to retain that custom property when recalling that function from the function Provider.&#160;&#160; I’m not going to copy <a href="http://stackoverflow.com/questions/544804/powershell-how-do-you-add-a-property-to-a-function-object-on-the-psdrive-functio/546107#546107" target="_blank">my answer</a> here, but I do want to throw out a possible work around for this issue.&#160; 
+A q<a href="https://stackoverflow.com/questions/544804/powershell-how-do-you-add-a-property-to-a-function-object-on-the-psdrive-functio" target="_blank">uestion</a> was asked on <a href="https://stackoverflow.com/" target="_blank">StackOverflow</a> regarding how to add properties to a function, and then be able to retain that custom property when recalling that function from the function Provider.&#160;&#160; I’m not going to copy <a href="https://stackoverflow.com/questions/544804/powershell-how-do-you-add-a-property-to-a-function-object-on-the-psdrive-functio/546107#546107" target="_blank">my answer</a> here, but I do want to throw out a possible work around for this issue.&#160; 
 
 
 
@@ -72,7 +72,7 @@ So, I’ve written a couple of little ScriptProperties to save and restore NoteP
 </div>
 
 
-After saving this file as a PS1XML file, you can call <a href="http://technet.microsoft.com/en-us/library/dd315362.aspx" target="_blank">Update-TypeData</a> –Prepend path\to\thefile.ps1xml, and every FunctionInfo object will have two script properties – SaveMetadata and LoadMetadata.&#160; As I’ve configured it, the data will be saved to the user’s profile directory and under a filename that matches the function name.&#160; So, you can add NoteProperties to your heart’s desire and save and recall them as needed.&#160; 
+After saving this file as a PS1XML file, you can call <a href="https://technet.microsoft.com/en-us/library/dd315362.aspx" target="_blank">Update-TypeData</a> –Prepend path\to\thefile.ps1xml, and every FunctionInfo object will have two script properties – SaveMetadata and LoadMetadata.&#160; As I’ve configured it, the data will be saved to the user’s profile directory and under a filename that matches the function name.&#160; So, you can add NoteProperties to your heart’s desire and save and recall them as needed.&#160; 
 
 
 

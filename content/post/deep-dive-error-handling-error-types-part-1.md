@@ -14,7 +14,7 @@ title: 'Deep Dive: Error Handling – Error Types (part 1)'
 
 ---
 
-I started looking a little deeper at error handling in PowerShell after <a href="http://stackoverflow.com/questions/1142211/try-catch-does-not-seem-to-have-an-effect" target="_blank">this StackOverflow question</a>.
+I started looking a little deeper at error handling in PowerShell after <a href="https://stackoverflow.com/questions/1142211/try-catch-does-not-seem-to-have-an-effect" target="_blank">this StackOverflow question</a>.
 PowerShell has two kinds of errors – terminating errors and non-terminating errors.
 
 
@@ -23,7 +23,7 @@ Terminating errors are the errors that can stop command execution cold.  Non-te
 
 
 
-There are some <a href="http://technet.microsoft.com/en-us/library/dd347675.aspx" target="_blank">automatic variables</a> in the shell that deal with errors as well.  $ErrorActionPreference is a variable that describes how PowerShell will treat non-terminating errors.  $ErrorActionPreference has four options: “Continue” (the default), “SilentlyContinue”, “Inquire”, and “Stop”.  $error is an array of all the errors that have occurred in the current session up to the number specified in $MaximumErrorCount.  $? is a boolean value that is $true if the previous operation succeeded and $false if it did not.
+There are some <a href="https://technet.microsoft.com/en-us/library/dd347675.aspx" target="_blank">automatic variables</a> in the shell that deal with errors as well.  $ErrorActionPreference is a variable that describes how PowerShell will treat non-terminating errors.  $ErrorActionPreference has four options: “Continue” (the default), “SilentlyContinue”, “Inquire”, and “Stop”.  $error is an array of all the errors that have occurred in the current session up to the number specified in $MaximumErrorCount.  $? is a boolean value that is $true if the previous operation succeeded and $false if it did not.
 
 
 
@@ -31,7 +31,7 @@ PowerShell does have some built in flexibility to turn non-terminating errors in
 
 
 
-$ErrorActionPreference is a global preference that can be set, but the PowerShell runtime also allows more granular control by providing <a href="http://technet.microsoft.com/en-us/library/dd315352.aspx" target="_blank">common parameters</a> for -ErrorAction and -ErrorVariable (shorthand -EA and –EV) which allow you to determine per cmdlet (and in V2 per advanced function) how errors should be handled.  The –ErrorAction parameter takes the same options as $ErrorActionPreference.
+$ErrorActionPreference is a global preference that can be set, but the PowerShell runtime also allows more granular control by providing <a href="https://technet.microsoft.com/en-us/library/dd315352.aspx" target="_blank">common parameters</a> for -ErrorAction and -ErrorVariable (shorthand -EA and –EV) which allow you to determine per cmdlet (and in V2 per advanced function) how errors should be handled.  The –ErrorAction parameter takes the same options as $ErrorActionPreference.
 
 
 
@@ -39,7 +39,7 @@ So what happens when you encounter an error?
 
 
 
-If you hit a terminating error, your script, function, or command will stop.  The error will be logged to the $error variable and written to the error stream.  The $? will be set to false.  You can use the <a href="http://technet.microsoft.com/en-us/library/dd347548.aspx" target="_blank">trap construct</a> (or the <a href="http://technet.microsoft.com/en-us/library/dd315350.aspx" target="_blank">try/catch/finally construct</a> in V2) to deal with terminating errors and we’ll cover that further in the fourth post in this series.
+If you hit a terminating error, your script, function, or command will stop.  The error will be logged to the $error variable and written to the error stream.  The $? will be set to false.  You can use the <a href="https://technet.microsoft.com/en-us/library/dd347548.aspx" target="_blank">trap construct</a> (or the <a href="https://technet.microsoft.com/en-us/library/dd315350.aspx" target="_blank">try/catch/finally construct</a> in V2) to deal with terminating errors and we’ll cover that further in the fourth post in this series.
 
 
 
@@ -86,6 +86,6 @@ Other great <a href="http://support.microsoft.com/kb/968929" target="_blank">Pow
 
 *   [http://huddledmasses.org/trap-exception-in-powershell/](http://huddledmasses.org/trap-exception-in-powershell/)
 *   [http://blogs.msdn.com/powershell/archive/2006/11/03/erroraction-and-errorvariable.aspx](http://blogs.msdn.com/powershell/archive/2006/11/03/erroraction-and-errorvariable.aspx)
-*   [http://tfl09.blogspot.com/2009/01/error-handling-with-powershell.html](http://tfl09.blogspot.com/2009/01/error-handling-with-powershell.html)
+*   [https://tfl09.blogspot.com/2009/01/error-handling-with-powershell.html](https://tfl09.blogspot.com/2009/01/error-handling-with-powershell.html)
 *   [http://weblogs.asp.net/adweigert/archive/2007/10/10/powershell-try-catch-finally-comes-to-life.aspx](http://weblogs.asp.net/adweigert/archive/2007/10/10/powershell-try-catch-finally-comes-to-life.aspx)
 *   [http://powershell.com/cs/blogs/ebook/archive/2009/03/30/chapter-11-finding-and-avoiding-errors.aspx](http://powershell.com/cs/blogs/ebook/archive/2009/03/30/chapter-11-finding-and-avoiding-errors.aspx)

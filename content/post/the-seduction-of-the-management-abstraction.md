@@ -23,7 +23,7 @@ Abstractions, in the IT context, are higher level models on top of more complex 
 
 
 At their most basic level, management abstractions are the common idioms that we refer to in managing our systems.  One example that comes readily to mind is the network configuration dialog on Windows.
-<a href="http://imgur.com/KDTMJKO">![](http://i.imgur.com/KDTMJKO.png "source: imgur.com")</a>
+<a href="https://imgur.com/KDTMJKO">![](https://i.imgur.com/KDTMJKO.png "source: imgur.com")</a>
 
 What is actually happening here is that three individual things are happening, two are relatively closely identified to a network adapter, and the other is a general setting.
 

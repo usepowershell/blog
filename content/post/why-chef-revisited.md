@@ -118,7 +118,7 @@ The Chef ecosystem has FoodCritic, FoodCritic has a series of built in rules and
 ### Analytics Framework
 
 <p dir="ltr">If you are using DSC, you'll be rolling your own here too!
-<p dir="ltr">[Analytics are a new feature for Chef (Enterprise).](http://www.getchef.com/blog/2014/07/15/meet-the-chef-analytics-platform/) &nbsp;This platform allows you to do cool stuff like see changes in real-time, integrate with external systems, and tie in compliance controls.
+<p dir="ltr">[Analytics are a new feature for Chef (Enterprise).](https://www.getchef.com/blog/2014/07/15/meet-the-chef-analytics-platform/) &nbsp;This platform allows you to do cool stuff like see changes in real-time, integrate with external systems, and tie in compliance controls.
 
 
 ### Unit Test Framework
@@ -130,7 +130,7 @@ The Chef ecosystem has FoodCritic, FoodCritic has a series of built in rules and
 ### Integration Test Framework
 
 <p dir="ltr">Again, on the DSC side, we can put together our own testing framework with Pester.
-<p dir="ltr">With Chef, we have [Test-Kitchen](http://kitchen.ci). &nbsp;Test-Kitchen is a test harness to help you run your recipes against a variety of types of nodes and run suites of tests against them, using a variety of frameworks (like [Serverspec](http://serverspec.org/)). &nbsp;Currrently Test-Kitchen doesn't have support for Windows guests, but that's changing. &nbsp;My co-worker, S[alim Afiune has done a lot of work to improve the Windows support](https://github.com/afiune/test-kitchen) and [Matt Wrock has a great post on getting it all to work on Windows](http://www.mattwrock.com/blog/peering-into-the-future-of-windows-automation-testing-with-chef-vagrant-and-test-kitchen-look-mom-no-ssh).
+<p dir="ltr">With Chef, we have [Test-Kitchen](https://kitchen.ci). &nbsp;Test-Kitchen is a test harness to help you run your recipes against a variety of types of nodes and run suites of tests against them, using a variety of frameworks (like [Serverspec](https://serverspec.org/)). &nbsp;Currrently Test-Kitchen doesn't have support for Windows guests, but that's changing. &nbsp;My co-worker, S[alim Afiune has done a lot of work to improve the Windows support](https://github.com/afiune/test-kitchen) and [Matt Wrock has a great post on getting it all to work on Windows](http://www.mattwrock.com/blog/peering-into-the-future-of-windows-automation-testing-with-chef-vagrant-and-test-kitchen-look-mom-no-ssh).
 
 
 ### Cloud Integration

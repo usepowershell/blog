@@ -23,7 +23,7 @@ the only truly good comment is the comment you found a way not to write.
     
 
     <div class="productDetails left">
-      <a href="http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882%3FSubscriptionId%3D0ENGV10E9K9QDNSJ5C82%26tag%3Dinvestipendin-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0132350882" target="new" class="product-title title">Clean Code: A Handbook of Agile Software Craftsmanship</a>
+      <a href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882%3FSubscriptionId%3D0ENGV10E9K9QDNSJ5C82%26tag%3Dinvestipendin-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0132350882" target="new" class="product-title title">Clean Code: A Handbook of Agile Software Craftsmanship</a>
       
       <div class="product-author author">By Robert C. Martin</div>
       
@@ -121,6 +121,6 @@ If you read this and feel defensive or hurt - bring it on.. that's what the comm
 **NOTE: Comment-based help in PowerShell and other comments for documentation generation are an exception to this rule.**
 
 
-### **UPDATE - [Great video commentary](http://simpleprogrammer.com/2014/02/13/comment-code/) on this topic from John Sonmez ([@jsonmez](https://twitter.com/jsonmez)) from just the other day.**
+### **UPDATE - [Great video commentary](https://simpleprogrammer.com/2014/02/13/comment-code/) on this topic from John Sonmez ([@jsonmez](https://twitter.com/jsonmez)) from just the other day.**
 
 

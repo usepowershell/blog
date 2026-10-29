@@ -28,7 +28,7 @@ Source control offers tooling to help with that. &nbsp;Go learn it.
 Scripting is programming, just with the connotation that it isn't being done by a professional. &nbsp;It's an excuse for lack of error handling and logging. &nbsp;It's an excuse for sloppy code. &nbsp;
 
 
-We need to understand the languages we work with, enough to identify code smells (those things that indicate anti-patterns or potential problems). &nbsp;Go read a book about coding standards or [watch some of Uncle Bob's videos.](http://cleancoders.com/)
+We need to understand the languages we work with, enough to identify code smells (those things that indicate anti-patterns or potential problems). &nbsp;Go read a book about coding standards or [watch some of Uncle Bob's videos.](https://cleancoders.com/)
 
 
 ## Testing? &nbsp;If my script runs, it's working. &nbsp;Besides, I don't have time for that.

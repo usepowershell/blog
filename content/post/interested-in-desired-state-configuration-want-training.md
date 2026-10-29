@@ -8,10 +8,10 @@ title: Interested in Desired State Configuration?  Want training?
 
 ---
 
-[I'm doing a hands on, full day class on DSC at the Cascadia IT Conference in Seattle on March &nbsp;7th (and on March 8th I'll be teaching a PowerShell Fundamentals half day class and another half day class on Failover Clustering)](http://casitconf.org/casitconf14/conference/tutorial-descriptions/).
+[I'm doing a hands on, full day class on DSC at the Cascadia IT Conference in Seattle on March &nbsp;7th (and on March 8th I'll be teaching a PowerShell Fundamentals half day class and another half day class on Failover Clustering)](https://casitconf.org/casitconf14/conference/tutorial-descriptions/).
 
 
-Early bird registration ends on February 17th, [so sign up now](http://casitconf.org/casitconf14/registration-is-now-open/)!
+Early bird registration ends on February 17th, [so sign up now](https://casitconf.org/casitconf14/registration-is-now-open/)!
 
 
 ## What Else Is There?
@@ -21,7 +21,7 @@ Early bird registration ends on February 17th, [so sign up now](http://casitconf
 Other training sessions you might find interesting are:
 
 
-*   Team Time Management and Evil Genius 101 by my co-worker [Tom Limoncelli](http://everythingsysadmin.com)
+*   Team Time Management and Evil Genius 101 by my co-worker [Tom Limoncelli](https://everythingsysadmin.com)
 *   Advanced Puppet by Garrett Honeycutt
 *   SRE Classroom by Caskey Dickson (an SRE at Google)
 *   Programming System Tools With Go by Chris McEniry
@@ -53,5 +53,5 @@ I'll be talking about DSC in depth at the [PowerShell Summit at the end of April
 Then in early May, I'll be at [LOPSA-East with a half-day class on DSC](http://lopsa-east.org/2014/) and a few other sessions.
 
 
-And I'm&nbsp;[doing a deep dive into DSC resources at TechMentor in August](http://techmentorevents.com/Events/Redmond-2014/Sessions/Thursday/TH01-Building-DSC-Resources-in-Windows-PowerShell.aspx).
+And I'm&nbsp;[doing a deep dive into DSC resources at TechMentor in August](https://techmentorevents.com/Events/Redmond-2014/Sessions/Thursday/TH01-Building-DSC-Resources-in-Windows-PowerShell.aspx).
 

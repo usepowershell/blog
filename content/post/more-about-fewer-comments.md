@@ -46,7 +46,7 @@ I totally agree with June's description of the difference between comments and h
  
    <blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden" lang="en">
 
-[@StevenMurawski](https://twitter.com/StevenMurawski) I respectfully disagree. How do you understand intent of advanced code w/o comments? e.g. [http://t.co/p312Fl0ECn](http://t.co/p312Fl0ECn) by [@Jaykul](https://twitter.com/Jaykul)
+[@StevenMurawski](https://twitter.com/StevenMurawski) I respectfully disagree. How do you understand intent of advanced code w/o comments? e.g. [https://t.co/p312Fl0ECn](https://t.co/p312Fl0ECn) by [@Jaykul](https://twitter.com/Jaykul)
 &mdash; June Blender (@juneb_get_help) [February 14, 2014](https://twitter.com/juneb_get_help/statuses/434399352069439488)
 
 

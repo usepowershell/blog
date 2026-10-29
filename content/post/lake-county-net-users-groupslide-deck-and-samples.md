@@ -13,7 +13,7 @@ title: Lake County .NET Users Group–Slide Deck and Samples
 
 ---
 
-<a href="http://www.scottseely.com/Blog.aspx" target="_blank">Scott Seely</a> and <a href="http://timstall.dotnetdevelopersjournal.com/" target="_blank">Tim Stall</a> invited me to give an introduction to PowerShell talk for the <a href="http://www.lcnug.org/Home.aspx" target="_blank">Lake County .NET Users Group</a> yesterday evening.
+<a href="http://www.scottseely.com/Blog.aspx" target="_blank">Scott Seely</a> and <a href="https://timstall.dotnetdevelopersjournal.com/" target="_blank">Tim Stall</a> invited me to give an introduction to PowerShell talk for the <a href="http://www.lcnug.org/Home.aspx" target="_blank">Lake County .NET Users Group</a> yesterday evening.
 
 
 

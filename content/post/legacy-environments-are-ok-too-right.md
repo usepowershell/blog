@@ -80,5 +80,5 @@ Is it likely that you can? &nbsp;I don't think so. &nbsp;And I want you to be su
 I want you to enjoy your work and have a fulfilling career. &nbsp;I want you to be and feel AWESOME!&nbsp;
 
 
-I hate hearing stories like one Don wrote about recently, where [there was a guy who realized he could have a career and not just a job, but wasn't prepared to step into the role he wanted.](http://donjones.com/2014/07/12/dont-get-stuck-in-your-job/)&nbsp; It makes me sad to see that, especially since I know a number of folks in that same boat. &nbsp;That's why I beat this drum.
+I hate hearing stories like one Don wrote about recently, where [there was a guy who realized he could have a career and not just a job, but wasn't prepared to step into the role he wanted.](https://donjones.com/2014/07/12/dont-get-stuck-in-your-job/)&nbsp; It makes me sad to see that, especially since I know a number of folks in that same boat. &nbsp;That's why I beat this drum.
 

@@ -7,58 +7,58 @@ permalink: /page/devops-reading-list/
 
 ### Books
 
-- [The Phoenix Project](http://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO)
-- [Leading the Transformation](http://www.amazon.com/Leading-Transformation-Applying-DevOps-Principles-ebook/dp/B012P0D4YG)
-- [The Art of Business Value](http://www.amazon.com/Art-Business-Value-Mark-Schwartz-ebook/dp/B01DOGQBJ0)
-- [The Goal](http://www.amazon.com/Goal-Process-Ongoing-Improvement-ebook/dp/B002LHRM2O)
-- [Building a DevOps Culture](http://www.amazon.com/Building-DevOps-Culture-Mandi-Walls-ebook/dp/B00CBM1WFC)
-- [Lean Enterprise](http://www.amazon.com/Lean-Enterprise-Performance-Organizations-Innovate-ebook/dp/B00QL5MSF8)
-- [Beyond Blame: Learning from Failure and Success](http://www.amazon.com/Beyond-Blame-Learning-Failure-Success-ebook/dp/B016CJ5HUA)
-- [The Field Guide to Understanding 'Human Error'](http://www.amazon.com/Field-Guide-Understanding-Human-Error-ebook/dp/B00Q8XCSFI)
-- [The Five Dysfunctions of a Team](http://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756)
-- [Turn the Ship Around](http://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404)
+- [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO)
+- [Leading the Transformation](https://www.amazon.com/Leading-Transformation-Applying-DevOps-Principles-ebook/dp/B012P0D4YG)
+- [The Art of Business Value](https://www.amazon.com/Art-Business-Value-Mark-Schwartz-ebook/dp/B01DOGQBJ0)
+- [The Goal](https://www.amazon.com/Goal-Process-Ongoing-Improvement-ebook/dp/B002LHRM2O)
+- [Building a DevOps Culture](https://www.amazon.com/Building-DevOps-Culture-Mandi-Walls-ebook/dp/B00CBM1WFC)
+- [Lean Enterprise](https://www.amazon.com/Lean-Enterprise-Performance-Organizations-Innovate-ebook/dp/B00QL5MSF8)
+- [Beyond Blame: Learning from Failure and Success](https://www.amazon.com/Beyond-Blame-Learning-Failure-Success-ebook/dp/B016CJ5HUA)
+- [The Field Guide to Understanding 'Human Error'](https://www.amazon.com/Field-Guide-Understanding-Human-Error-ebook/dp/B00Q8XCSFI)
+- [The Five Dysfunctions of a Team](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756)
+- [Turn the Ship Around](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404)
 - [Effective DevOps](https://www.amazon.com/Effective-DevOps-Building-Collaboration-Affinity/dp/1491926309)
 
 ### Whitepapers
 
- - [The Release Pipeline Model](https://aka.ms/thereleasepipelinemodelpdf) by [Michael Greene](https://github.com/mgreenegit) and me.
+ - [The Release Pipeline Model](https://web.archive.org/web/20160902011133id_/http://aka.ms/thereleasepipelinemodelpdf) by [Michael Greene](https://github.com/mgreenegit) and me. Microsoft's short link no longer serves the PDF; this is the September 2016 capture.
 
 ## Operations
 
 ### Books
 
-- [The Practice of Cloud Systems Administration](http://www.amazon.com/Practice-Cloud-System-Administration-Distributed/dp/032194318X)
-- [Web Operations](http://www.amazon.com/Web-Operations-Keeping-Data-Time/dp/1449377440)
-- [Scalable Internet Architectures](http://www.amazon.com/Scalable-Internet-Architectures-Theo-Schlossnagle/dp/067232699X)
-- [Monitoring and Alerting](http://www.amazon.com/Effective-Monitoring-Alerting-Web-Operations/dp/1449333524)
-- [The Art of Capacity Planning](http://www.amazon.com/Art-Capacity-Planning-Scaling-Resources/dp/0596518579)
+- [The Practice of Cloud Systems Administration](https://www.amazon.com/Practice-Cloud-System-Administration-Distributed/dp/032194318X)
+- [Web Operations](https://www.amazon.com/Web-Operations-Keeping-Data-Time/dp/1449377440)
+- [Scalable Internet Architectures](https://www.amazon.com/Scalable-Internet-Architectures-Theo-Schlossnagle/dp/067232699X)
+- [Monitoring and Alerting](https://www.amazon.com/Effective-Monitoring-Alerting-Web-Operations/dp/1449333524)
+- [The Art of Capacity Planning](https://www.amazon.com/Art-Capacity-Planning-Scaling-Resources/dp/0596518579)
 
 ## Development
 
 ### Books
 
-- [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-- [Clean Coder](http://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
-- [Refactoring](http://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
-- [Kanban](http://www.amazon.com/Kanban-Successful-Evolutionary-Technology-Business/dp/0984521402)
-- [Continuous Delivery](http://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
-- [Release It!](http://www.amazon.com/Release-Production-Ready-Software-Pragmatic-Programmers/dp/0978739213)
-- [Debug It!](http://www.amazon.com/Debug-Repair-Prevent-Pragmatic-Programmers/dp/193435628X)
-- [Design Patterns](http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
-- [Working Effectively With Legacy Code](http://www.amazon.com/Working-Effectively-Legacy-Robert-Martin-ebook/dp/B005OYHF0A)
-- [Version Control By Example](http://ericsink.com/vcbe/)
+- [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- [Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073)
+- [Refactoring](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
+- [Kanban](https://www.amazon.com/Kanban-Successful-Evolutionary-Technology-Business/dp/0984521402)
+- [Continuous Delivery](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
+- [Release It!](https://www.amazon.com/Release-Production-Ready-Software-Pragmatic-Programmers/dp/0978739213)
+- [Debug It!](https://www.amazon.com/Debug-Repair-Prevent-Pragmatic-Programmers/dp/193435628X)
+- [Design Patterns](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+- [Working Effectively With Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Robert-Martin-ebook/dp/B005OYHF0A)
+- [Version Control By Example](https://ericsink.com/vcbe/index.html)
 
 ### Articles
 
-- [Why the Best Companies and Developers Give Away Almost Everything They Do](http://www.themacro.com/articles/2016/05/why-the-best-give-away/)
+- [Why the Best Companies and Developers Give Away Almost Everything They Do](https://www.themacro.com/articles/2016/05/why-the-best-give-away/)
 
 ## Testing
 
 ### Books
 
-- [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
-- [Working Effectively With Legacy Code](http://www.amazon.com/Working-Effectively-Legacy-Robert-Martin-ebook/dp/B005OYHF0A)
-- [Continuous Delivery](http://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
+- [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- [Working Effectively With Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Robert-Martin-ebook/dp/B005OYHF0A)
+- [Continuous Delivery](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
 - [Test-Driven Infrastructure with Chef](https://www.amazon.com/Test-Driven-Infrastructure-Chef-Behavior-Driven-Development-ebook/dp/B00FT7KVXK)
 - [The Art of Unit Testing](https://www.amazon.com/Art-Unit-Testing-Examples/dp/B07K4SCCBG)
 - [Pragmatic Unit Testing](https://www.amazon.com/Pragmatic-Unit-Testing-NUnit-Starter/dp/0977616673)

@@ -10,7 +10,7 @@
         },
         {
             "route": "/github",
-            "redirect": "https://github.com/smurawski"
+            "redirect": "https://github.com/usepowershell"
         },
         {
             "route": "/feed",

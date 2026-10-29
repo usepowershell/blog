@@ -14,7 +14,7 @@ title: Dealing with WMI Timeouts
 
 ---
 
-There was a <a href="http://powershellcommunity.org/Forums/tabid/54/aff/1/aft/3526/afv/topic/Default.aspx" target="_blank">question</a> in the <a href="http://powershellcommunity.org/" target="_blank">PowerShellCommunity.Org</a> forums about WMI timeouts.
+There was a <a href="https://powershellcommunity.org/Forums/tabid/54/aff/1/aft/3526/afv/topic/Default.aspx" target="_blank">question</a> in the <a href="https://powershellcommunity.org/" target="_blank">PowerShellCommunity.Org</a> forums about WMI timeouts.
 
 
 
@@ -58,7 +58,7 @@ The third area in which I’ve found timeouts/hangs in WMI queries is during the
 
 
 
-The timeout value is a <a href="http://msdn.microsoft.com/en-us/library/system.timespan.aspx" target="_blank">System.TimeSpan</a> object.&#160; You can specify the value with a TimeSpan object, a number of ticks, or a string that can be cast to a TimeSpan.
+The timeout value is a <a href="https://msdn.microsoft.com/en-us/library/system.timespan.aspx" target="_blank">System.TimeSpan</a> object.&#160; You can specify the value with a TimeSpan object, a number of ticks, or a string that can be cast to a TimeSpan.
 
 
 

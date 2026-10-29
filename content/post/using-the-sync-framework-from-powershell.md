@@ -13,7 +13,7 @@ title: Using the Sync Framework from PowerShell
 
 ---
 
-I’ve been exploring the <a href="http://msdn.microsoft.com/en-us/sync/default.aspx" target="_blank">Sync Framework</a> for use in a couple of projects I have going and <a href="http://msdn.microsoft.com/en-us/library/ms714418(VS.85).aspx" target="_blank">PowerShell</a> is my preferred exploratory environment.
+I’ve been exploring the <a href="https://msdn.microsoft.com/en-us/sync/default.aspx" target="_blank">Sync Framework</a> for use in a couple of projects I have going and <a href="https://msdn.microsoft.com/en-us/library/ms714418(VS.85).aspx" target="_blank">PowerShell</a> is my preferred exploratory environment.
 
 
 
@@ -21,11 +21,11 @@ It was a bit of fun, since I got to work with eventing for the first time in V2.
 
 
 
-First, I downloaded the <a href="http://www.microsoft.com/downloads/details.aspx?FamilyID=89adbb1e-53ff-41b5-ba17-8e43a2e66254&amp;displaylang=en" target="_blank">Sync Framework Software Development Kit</a>.  That provided me with the Sync Framework runtime as well as some documentation.
+First, I downloaded the <a href="https://www.microsoft.com/downloads/details.aspx?FamilyID=89adbb1e-53ff-41b5-ba17-8e43a2e66254&amp;displaylang=en" target="_blank">Sync Framework Software Development Kit</a>.  That provided me with the Sync Framework runtime as well as some documentation.
 
 
 
-The easiest way for me to get started was to take one <a href="http://msdn.microsoft.com/en-us/library/ee617386(SQL.105).aspx" target="_blank">of the samples</a> and convert that to PowerShell.
+The easiest way for me to get started was to take one <a href="https://msdn.microsoft.com/en-us/library/ee617386(SQL.105).aspx" target="_blank">of the samples</a> and convert that to PowerShell.
 
 
 
@@ -38,7 +38,7 @@ I’m going to walk along the MSDN Sample and provide the equivalent PowerShell,
 
 
 
-We are working with the File Sync Provider First up is setting the <a href="http://msdn.microsoft.com/en-us/library/microsoft.synchronization.files.filesyncoptions(SQL.105).aspx" target="_blank">FileSyncOptions</a>.  FileSyncOptions are an enumeration (a limited list defined in code that maps to certain values) whose values are controlled by setting the appropriate bits to indicate the presence or absence of a flag.  <a href="http://twitter.com/meson3902" target="_blank">Mark Schill</a> has <a href="http://www.cmschill.net/stringtheory/2009/05/02/bitwise-operators/" target="_blank">a great post about how to set bitwise operations</a>.
+We are working with the File Sync Provider First up is setting the <a href="https://msdn.microsoft.com/en-us/library/microsoft.synchronization.files.filesyncoptions(SQL.105).aspx" target="_blank">FileSyncOptions</a>.  FileSyncOptions are an enumeration (a limited list defined in code that maps to certain values) whose values are controlled by setting the appropriate bits to indicate the presence or absence of a flag.  <a href="http://twitter.com/meson3902" target="_blank">Mark Schill</a> has <a href="http://www.cmschill.net/stringtheory/2009/05/02/bitwise-operators/" target="_blank">a great post about how to set bitwise operations</a>.
 
 
 
@@ -52,7 +52,7 @@ We are working with the File Sync Provider First up is setting the <a href="http
     
 
     
-    With the <a href="http://msdn.microsoft.com/en-us/library/bb902860(SQL.105).aspx" target="_blank">File System provider,</a> we can provide filters to include or exclude files and directories.
+    With the <a href="https://msdn.microsoft.com/en-us/library/bb902860(SQL.105).aspx" target="_blank">File System provider,</a> we can provide filters to include or exclude files and directories.
     
 
     
@@ -109,15 +109,15 @@ We are working with the File Sync Provider First up is setting the <a href="http
     
 
     
-    Conflict resolution in the Sync Framework happens at the at the event level.  An event is merely something that happens that can trigger other actions.  Using <a href="http://technet.microsoft.com/en-us/library/dd347672.aspx" target="_blank">Register-ObjectEvent</a>, we can associate one or more scriptblocks with an event.
+    Conflict resolution in the Sync Framework happens at the at the event level.  An event is merely something that happens that can trigger other actions.  Using <a href="https://technet.microsoft.com/en-us/library/dd347672.aspx" target="_blank">Register-ObjectEvent</a>, we can associate one or more scriptblocks with an event.
     
 
     
-    First, I defined scriptblocks to handle the conflicts.  There is an enumeration, the <a href="http://msdn.microsoft.com/en-us/library/microsoft.synchronization.conflictresolutionaction(SQL.105).aspx" target="_blank">ConflictResolutionAction</a> enumeration, that provides some options for dealing with conflicts.  For this example, we are going to pick the source object as the winner for any conflicts.
+    First, I defined scriptblocks to handle the conflicts.  There is an enumeration, the <a href="https://msdn.microsoft.com/en-us/library/microsoft.synchronization.conflictresolutionaction(SQL.105).aspx" target="_blank">ConflictResolutionAction</a> enumeration, that provides some options for dealing with conflicts.  For this example, we are going to pick the source object as the winner for any conflicts.
     
 
     
-    You will also notice another type of conflict defined, and that is a Constraint conflict.  That can occur when an object of the same name is added on both sides in between synchronizations.  The resolution options for these conflicts can be found in the <a href="http://msdn.microsoft.com/en-us/library/microsoft.synchronization.constraintconflictresolutionaction(SQL.105).aspx" target="_blank">ConstraintConflictResolutionAction</a> enumeration.
+    You will also notice another type of conflict defined, and that is a Constraint conflict.  That can occur when an object of the same name is added on both sides in between synchronizations.  The resolution options for these conflicts can be found in the <a href="https://msdn.microsoft.com/en-us/library/microsoft.synchronization.constraintconflictresolutionaction(SQL.105).aspx" target="_blank">ConstraintConflictResolutionAction</a> enumeration.
     
 <pre class="PowerShellColorizedScript"><span style="color: #ff4500">$ItemConflictAction</span> <span style="color: #a9a9a9">=</span>   <span style="color: #000000">{</span>
     <span style="color: #ff4500">$event</span><span style="color: #a9a9a9">.</span><span style="color: #000000">SourceEventArgs</span><span style="color: #a9a9a9">.</span><span style="color: #000000">SetResolutionAction</span><span style="color: #000000">(</span><span style="color: #008080">[Microsoft.Synchronization.ConflictResolutionAction]</span><span style="color: #a9a9a9">::</span><span style="color: #000000">SourceWins</span><span style="color: #000000">)</span>
@@ -151,7 +151,7 @@ We are working with the File Sync Provider First up is setting the <a href="http
     
 
     
-    To start to synchronize the two sides, first we set up the synchronization via a <a href="http://msdn.microsoft.com/en-us/library/microsoft.synchronization.syncorchestrator.aspx" target="_blank">SyncOrchestrator</a> and assign it the local and remote providers, as well as defining the direction of the synchronization.  In this example (sticking with the format from MSDN, we will do an Upload, which is in the <a href="http://msdn.microsoft.com/en-us/library/microsoft.synchronization.syncdirectionorder.aspx" target="_blank">SyncDirectionOrder enumeration</a> (other options are Download, DownloadAndUpload, and UploadAndDownload). 
+    To start to synchronize the two sides, first we set up the synchronization via a <a href="https://msdn.microsoft.com/en-us/library/microsoft.synchronization.syncorchestrator.aspx" target="_blank">SyncOrchestrator</a> and assign it the local and remote providers, as well as defining the direction of the synchronization.  In this example (sticking with the format from MSDN, we will do an Upload, which is in the <a href="https://msdn.microsoft.com/en-us/library/microsoft.synchronization.syncdirectionorder.aspx" target="_blank">SyncDirectionOrder enumeration</a> (other options are Download, DownloadAndUpload, and UploadAndDownload). 
     
 <pre class="PowerShellColorizedScript"><span style="color: #006400"># Create the agent that will perform the file sync</span>
 <span style="color: #ff4500">$agent</span> <span style="color: #a9a9a9">=</span> <span style="color: #0000ff">New-Object</span>  <span style="color: #8a2be2">Microsoft.Synchronization.SyncOrchestrator</span>
@@ -185,9 +185,9 @@ We are working with the File Sync Provider First up is setting the <a href="http
 <pre class="PowerShellColorizedScript"><span style="color: #006400"># Requires -Version 2</span>
 <span style="color: #006400"># Also depends on having the Microsoft Sync Framework 2.0 SDK or Runtime</span>
 <span style="color: #006400"># --SDK--</span>
-<span style="color: #006400"># http://www.microsoft.com/downloads/details.aspx?FamilyID=89adbb1e-53ff-41b5-ba17-8e43a2e66254&amp;displaylang=en</span>
+<span style="color: #006400"># https://www.microsoft.com/downloads/details.aspx?FamilyID=89adbb1e-53ff-41b5-ba17-8e43a2e66254&amp;displaylang=en</span>
 <span style="color: #006400"># --Runtime--</span>
-<span style="color: #006400"># http://www.microsoft.com/downloads/details.aspx?FamilyId=109DB36E-CDD0-4514-9FB5-B77D9CEA37F6&amp;displaylang=en</span>
+<span style="color: #006400"># https://www.microsoft.com/downloads/details.aspx?FamilyId=109DB36E-CDD0-4514-9FB5-B77D9CEA37F6&amp;displaylang=en</span>
 <span style="color: #006400">#</span>
 <span style="color: #006400">#</span>            
 

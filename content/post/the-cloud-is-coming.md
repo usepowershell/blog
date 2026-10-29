@@ -30,7 +30,7 @@ Snippets of the &nbsp;thread.. They start with the first one below and then dive
  
    <blockquote class="twitter-tweet">
 
-“Almost 80 per cent of private cloud projects today are failing". Good article on CPS by [@marypcbuk](https://twitter.com/marypcbuk) [http://t.co/gccSyskj7A](http://t.co/gccSyskj7A)
+“Almost 80 per cent of private cloud projects today are failing". Good article on CPS by [@marypcbuk](https://twitter.com/marypcbuk) [https://t.co/gccSyskj7A](https://t.co/gccSyskj7A)
 — jsnover (@jsnover) [October 21, 2014](https://twitter.com/jsnover/status/524551336130404352)
 
 

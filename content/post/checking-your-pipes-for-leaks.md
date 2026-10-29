@@ -84,7 +84,7 @@ In the case of my script, I have to find any scheduled tasks using it and stop t
 
 
 
-Once I had my leak stopped, I started to check for residual damage that I might have to control.&#160; Water had leaked onto where the power cord for my water heater plugged into an extension cord,&#160; This caused the <a href="http://en.wikipedia.org/wiki/Ground_fault_circuit_interrupter" target="_blank">GFI outlet</a> to trip. 
+Once I had my leak stopped, I started to check for residual damage that I might have to control.&#160; Water had leaked onto where the power cord for my water heater plugged into an extension cord,&#160; This caused the <a href="https://en.wikipedia.org/wiki/Ground_fault_circuit_interrupter" target="_blank">GFI outlet</a> to trip. 
 
 
 

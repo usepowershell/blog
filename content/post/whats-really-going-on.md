@@ -28,4 +28,4 @@ In IT Operations, we need to put a premimium on having everyone be able to share
 
 ## Learn More - Beyond Blame
 
-If this strikes a chord, go check out the recently released (to Kindle, print is coming soon) [Beyond Blame: Learning from Failure and Success](http://www.amazon.com/Beyond-Blame-Learning-Failure-Success-ebook/dp/B016CJ5HUA).  It's a short read - I read it on the flight from Milwaukee to Minneapolis, but it stages the problem well and provides actionable steps for moving from blame to learning.
+If this strikes a chord, go check out the recently released (to Kindle, print is coming soon) [Beyond Blame: Learning from Failure and Success](https://www.amazon.com/Beyond-Blame-Learning-Failure-Success-ebook/dp/B016CJ5HUA).  It's a short read - I read it on the flight from Milwaukee to Minneapolis, but it stages the problem well and provides actionable steps for moving from blame to learning.

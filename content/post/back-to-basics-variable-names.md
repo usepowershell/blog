@@ -20,7 +20,7 @@ $x and $z and $foo just aren't going to cut it in your production scripts.&#160;
 
 
 
-<a href="http://get-powershell.com/" target="_blank">Andy Schneider</a> <a href="http://twitter.com/#!/andys146" target="_blank">tweeted</a> during the <a href="http://bit.ly/2011sgall" target="_blank">Scripting Games</a> that there was no penalty for providing a descriptive variable name.&#160; He was right and not quite right enough.&#160; Twitter does not provide you the opportunity to share more than a sound bite in one tweet, so he really could not have commented much further there, <a href="http://get-powershell.com/post/2011/04/13/Extra-Points-for-Style-when-writing-PowerShell-Code.aspx" target="_blank">but he did in a post that expanded on what judges were looking for in style for the Scripting Games</a>.&#160; 
+<a href="http://get-powershell.com/" target="_blank">Andy Schneider</a> <a href="https://twitter.com/#!/andys146" target="_blank">tweeted</a> during the <a href="https://bit.ly/2011sgall" target="_blank">Scripting Games</a> that there was no penalty for providing a descriptive variable name.&#160; He was right and not quite right enough.&#160; Twitter does not provide you the opportunity to share more than a sound bite in one tweet, so he really could not have commented much further there, <a href="http://get-powershell.com/post/2011/04/13/Extra-Points-for-Style-when-writing-PowerShell-Code.aspx" target="_blank">but he did in a post that expanded on what judges were looking for in style for the Scripting Games</a>.&#160; 
 
 
 

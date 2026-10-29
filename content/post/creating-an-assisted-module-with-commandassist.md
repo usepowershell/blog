@@ -19,7 +19,7 @@ There is a handy command to generate these proxy modules included with the Comma
 
 
 
-<a href="http://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf4c1e4b0c945709cfb86/1313226370000/?format=original">![image](http://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf4c1e4b0c945709cfb89/1313226371000/?format=original "image")</a>
+<a href="https://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf4c1e4b0c945709cfb86/1313226370000/?format=original">![image](https://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf4c1e4b0c945709cfb89/1313226371000/?format=original "image")</a>
 
 
 
@@ -60,7 +60,7 @@ Get-Module ActiveDirectory |
 
 
 
-<a href="http://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf4c1e4b0c945709cfb8c/1313226377000/?format=original">![image](http://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf4c2e4b0c945709cfb8f/1313226379000/?format=original "image")</a>
+<a href="https://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf4c1e4b0c945709cfb8c/1313226377000/?format=original">![image](https://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf4c2e4b0c945709cfb8f/1313226379000/?format=original "image")</a>
 
 
 

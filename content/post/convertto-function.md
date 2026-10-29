@@ -19,7 +19,7 @@ I thought it might be convenient to have a way to convert those scripts into fun
 
 
 
-<a title="Poshoholic" href="http://poshoholic.com/" target="_blank">Kirk Munro</a> (<a href="http://twitter.com/poshoholic" target="_blank">@poshoholic</a>) pointed out that aliases (<a href="http://poshoholic.com/2009/02/04/powershell-quick-tip-create-aliases-to-facilitate-invocation-of-powershell-script-ps1-files/" target="_blank">and expands on it in this blog post</a>) might be an easier way to go.  That would definitely be an option.
+<a title="Poshoholic" href="http://poshoholic.com/" target="_blank">Kirk Munro</a> (<a href="https://twitter.com/poshoholic" target="_blank">@poshoholic</a>) pointed out that aliases (<a href="http://poshoholic.com/2009/02/04/powershell-quick-tip-create-aliases-to-facilitate-invocation-of-powershell-script-ps1-files/" target="_blank">and expands on it in this blog post</a>) might be an easier way to go.  That would definitely be an option.
 
 
 

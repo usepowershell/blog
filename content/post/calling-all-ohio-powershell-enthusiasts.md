@@ -36,8 +36,8 @@ If you are not sure about what you might want to talk about, how about these sug
 *   Developing PowerShell Friendly Applications (or How To Make the Admins Happy)
 *   Introduction to PowerShell
 *   Overview of Developing PowerShell Cmdlets, Providers, and Hosts
-*   Automating Builds and Deployment with PowerShell (check out the <a href="http://powerscripting.wordpress.com/2009/01/25/episode-56-james-kovacs-talks-about-psake/" target="_blank">PowerScripting Podcast #56</a> for ideas there)
+*   Automating Builds and Deployment with PowerShell (check out the <a href="https://powerscripting.wordpress.com/2009/01/25/episode-56-james-kovacs-talks-about-psake/" target="_blank">PowerScripting Podcast #56</a> for ideas there)
 
 
-It would be great to get some <a href="http://powershellcommunity.org" target="_blank">PowerShell Community</a> members there.&#160; I’ve submitted a couple of talks, but let’s give their selection committee a good number of PowerShell topics to pick through!
+It would be great to get some <a href="https://powershellcommunity.org" target="_blank">PowerShell Community</a> members there.&#160; I’ve submitted a couple of talks, but let’s give their selection committee a good number of PowerShell topics to pick through!
 

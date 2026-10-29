@@ -12,7 +12,7 @@ title: Continuous Learning
 
 
 
-A few weeks ago, [Richard Campbell](http://twitter.com/richcampbell) posted a note on Twitter that he'd be talking to [Kim Tripp](http://twitter.com/KimberlyLTripp)&nbsp;about learning in the technology space for [Runas Radio](http://runasradio.com). &nbsp;Richard asked if there were any questions we'd like answered, and I replied with a question.
+A few weeks ago, [Richard Campbell](https://twitter.com/richcampbell) posted a note on Twitter that he'd be talking to [Kim Tripp](https://twitter.com/KimberlyLTripp)&nbsp;about learning in the technology space for [Runas Radio](https://runasradio.com). &nbsp;Richard asked if there were any questions we'd like answered, and I replied with a question.
 
  
    <blockquote class="twitter-tweet" lang="en">
@@ -38,7 +38,7 @@ Kim responded via Twitter that afternoon.
  
 
 
-And also on the [Runas Radio show](http://runasradio.com/default.aspx?showNum=354), which was recently posted. &nbsp;In the show, Richard and Kim discussed a good bit about the topic. &nbsp;They had a good talk around the topic (it's worth a listen and the show is not that long - about a half hour). &nbsp;They provide some great tips for working with your employer to get training.
+And also on the [Runas Radio show](https://runasradio.com/default.aspx?showNum=354), which was recently posted. &nbsp;In the show, Richard and Kim discussed a good bit about the topic. &nbsp;They had a good talk around the topic (it's worth a listen and the show is not that long - about a half hour). &nbsp;They provide some great tips for working with your employer to get training.
 
 
 # Whose Responsibility Is It?

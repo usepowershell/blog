@@ -14,7 +14,7 @@ title: Parameter Validation
 
 ---
 
-<a href="http://get-admin.com/blog/" target="_blank">Glenn Sizemore</a> wrote a great <a href="http://bit.ly/2011sgall" target="_blank">Scripting Games</a> wrap up post about some of <a href="http://blogs.technet.com/b/heyscriptingguy/archive/2011/05/15/simplify-your-powershell-script-with-parameter-validation.aspx" target="_blank">the parameter validation options that are available</a>.&#160; Go read it, I'll wait.
+<a href="http://get-admin.com/blog/" target="_blank">Glenn Sizemore</a> wrote a great <a href="https://bit.ly/2011sgall" target="_blank">Scripting Games</a> wrap up post about some of <a href="https://blogs.technet.com/b/heyscriptingguy/archive/2011/05/15/simplify-your-powershell-script-with-parameter-validation.aspx" target="_blank">the parameter validation options that are available</a>.&#160; Go read it, I'll wait.
 
 
 
@@ -32,7 +32,7 @@ Very often you need to make sure that a parameter will not have a null value.&#1
 
 
 
-When you start to look at some of the validation parameters (in <a href="http://technet.microsoft.com/en-us/library/dd347600.aspx" target="_blank">about_Advanced_Functions</a>), the two that leap out are the ValidateNotNull and ValidateNotNullOrEmpty.&#160; 
+When you start to look at some of the validation parameters (in <a href="https://technet.microsoft.com/en-us/library/dd347600.aspx" target="_blank">about_Advanced_Functions</a>), the two that leap out are the ValidateNotNull and ValidateNotNullOrEmpty.&#160; 
 
 
 

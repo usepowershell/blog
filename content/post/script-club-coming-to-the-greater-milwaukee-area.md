@@ -13,7 +13,7 @@ title: Script Club – Coming to the Greater Milwaukee Area
 
 ---
 
-### **<a href="http://mkescriptclub.eventbrite.com " target="_blank">Register here.</a>**
+### **<a href="https://mkescriptclub.eventbrite.com " target="_blank">Register here.</a>**
 
 
 
@@ -27,12 +27,12 @@ title: Script Club – Coming to the Greater Milwaukee Area
 
 
 
-#### The first Greater Milwaukee <a href="http://msdn.microsoft.com/en-us/library/ms714418(VS.85).aspx" target="_blank">PowerShell</a> Script Club is being formed.
+#### The first Greater Milwaukee <a href="https://msdn.microsoft.com/en-us/library/ms714418(VS.85).aspx" target="_blank">PowerShell</a> Script Club is being formed.
 
 
 
 
-The first meeting will be on Tuesday, January 19th at 6:00 PM at the Greenfield Law Enforcement Center (in the Municipal Court Room), 5300 W Layton Ave, Greenfield, WI&#160; 53220.&#160; <a href="http://mkescriptclub.eventbrite.com " target="_blank">Register here.</a>
+The first meeting will be on Tuesday, January 19th at 6:00 PM at the Greenfield Law Enforcement Center (in the Municipal Court Room), 5300 W Layton Ave, Greenfield, WI&#160; 53220.&#160; <a href="https://mkescriptclub.eventbrite.com " target="_blank">Register here.</a>
 
 
 
@@ -66,6 +66,6 @@ This is not a lecture or presentation based group (though we may have presentati
 
 
 
-### <a href="http://mkescriptclub.eventbrite.com/" target="_blank">Register here.</a>
+### <a href="https://mkescriptclub.eventbrite.com/" target="_blank">Register here.</a>
 
 

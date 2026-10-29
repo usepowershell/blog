@@ -26,7 +26,7 @@ In one of my favorite books, the Phoenix Project, the authors create a character
     
 
     <div class="productDetails center">
-      <a href="http://www.amazon.com/The-Phoenix-Project-Helping-Business/dp/0988262592%3FSubscriptionId%3D0ENGV10E9K9QDNSJ5C82%26tag%3Dinvestipendin-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0988262592" target="new" class="product-title title">The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win</a>
+      <a href="https://www.amazon.com/The-Phoenix-Project-Helping-Business/dp/0988262592%3FSubscriptionId%3D0ENGV10E9K9QDNSJ5C82%26tag%3Dinvestipendin-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0988262592" target="new" class="product-title title">The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win</a>
       
       <div class="product-author author">By Gene Kim, Kevin Behr, George Spafford</div>
       

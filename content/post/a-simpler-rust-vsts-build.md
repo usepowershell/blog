@@ -9,4 +9,4 @@ draft: false
 
 After a bit of experimentation (and the introduction of YAML build definitions), I've got a better cross-platform build for a Rust project that uses the hosted Linux, Mac, and Windows build agents.
 
-Check it out- [project](https://github.com/smurawski/j2y) and the [build definition](https://github.com/smurawski/j2y/blob/master/.vsts-ci.yml)
+Check it out- [project](https://github.com/usepowershell/j2y) and the [build definition](https://github.com/smurawski/j2y/blob/master/.vsts-ci.yml)

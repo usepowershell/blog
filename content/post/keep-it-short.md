@@ -30,7 +30,7 @@ For example:
 vs.
 
  
-   <script src="https://gist.github.com/smurawski/c7e72c71d60826cd7b29.js"></script>
+   <script src="https://gist.github.com/usepowershell/c7e72c71d60826cd7b29.js"></script>
  
 
 
@@ -40,5 +40,5 @@ vs.
 **Which would you rather read?**
 
 
-If you'd like to see the "full" set of functions, [take a look at this Gist](https://gist.github.com/smurawski/6de63da2c9af6f4cf595).
+If you'd like to see the "full" set of functions, [take a look at this Gist](https://gist.github.com/usepowershell/6de63da2c9af6f4cf595).
 

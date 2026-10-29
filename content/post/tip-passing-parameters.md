@@ -11,7 +11,7 @@ title: 'Tip: Passing Parameters'
 
 ---
 
-Jeffery Hicks <a href="http://mcpmag.com/columns/article.asp?editorialsid=3028" target="_blank">recently talked about the Param statement in his Prof. Powershell column for MCP Magazine</a> (Keeping Your Options Open).  If you are new to PowerShell, I would definitely recommend reading the article, as provides a nice introduction to the **Param** statement. 
+Jeffery Hicks <a href="https://mcpmag.com/columns/article.asp?editorialsid=3028" target="_blank">recently talked about the Param statement in his Prof. Powershell column for MCP Magazine</a> (Keeping Your Options Open).  If you are new to PowerShell, I would definitely recommend reading the article, as provides a nice introduction to the **Param** statement. 
 Jeffrey recommended to cast your parameter as the type of object that you are expecting, as way to catch errors.  I wholeheartedly agree.  That can cause trouble though, if you want to allow consumers of your script to pass in one or more values for that parameter.  In the spirit of the article’s title, I thought I would share a method I’ve come across to handle that situation.
 
 

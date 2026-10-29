@@ -25,7 +25,7 @@ PS C:\scripts\PowerShell&gt; $ping = New-Object System.Net.NetworkInformation.Pi
 
 
 
-the <a href="http://technet.microsoft.com/en-us/library/d203c4ab-2d57-4103-a04e-d7869d06931e" target="_blank">New-Object</a> cmdlet calls the <a href="http://msdn.microsoft.com/en-us/library/system.net.networkinformation.ping.ping.aspx" target="_blank">constructor for Ping</a>.
+the <a href="https://technet.microsoft.com/en-us/library/d203c4ab-2d57-4103-a04e-d7869d06931e" target="_blank">New-Object</a> cmdlet calls the <a href="https://msdn.microsoft.com/en-us/library/system.net.networkinformation.ping.ping.aspx" target="_blank">constructor for Ping</a>.
 
 
 
@@ -33,11 +33,11 @@ Like other methods, constructors can require parameters and can have multiple ov
 
 
 
-Let’s look at <a href="http://msdn.microsoft.com/en-us/library/system.net.mail.mailmessage.aspx#" target="_blank">System.Net.Mail.MailMessage</a>, which is a object that represents an email message.
+Let’s look at <a href="https://msdn.microsoft.com/en-us/library/system.net.mail.mailmessage.aspx#" target="_blank">System.Net.Mail.MailMessage</a>, which is a object that represents an email message.
 
 
 
-The <a href="http://msdn.microsoft.com/en-us/library/system.net.mail.mailmessage.mailmessage.aspx" target="_blank">MailMessage constructor</a> contains several overloads.&#160; The first method listed is MailMessage(), which is the default constructor.&#160; This method does not require any arguments and returns an empty MailMessage object.&#160; In <a href="http://www.microsoft.com/windowsserver2003/technologies/management/powershell/download.mspx" target="_blank">PowerShell</a>, we would call this method via <a href="http://technet.microsoft.com/en-us/library/d203c4ab-2d57-4103-a04e-d7869d06931e" target="_blank">New-Object</a>, just like with Ping class.
+The <a href="https://msdn.microsoft.com/en-us/library/system.net.mail.mailmessage.mailmessage.aspx" target="_blank">MailMessage constructor</a> contains several overloads.&#160; The first method listed is MailMessage(), which is the default constructor.&#160; This method does not require any arguments and returns an empty MailMessage object.&#160; In <a href="http://www.microsoft.com/windowsserver2003/technologies/management/powershell/download.mspx" target="_blank">PowerShell</a>, we would call this method via <a href="https://technet.microsoft.com/en-us/library/d203c4ab-2d57-4103-a04e-d7869d06931e" target="_blank">New-Object</a>, just like with Ping class.
 
 
 
@@ -49,7 +49,7 @@ MailMessage()
 
 
 
-The first overload requires two <a href="http://msdn.microsoft.com/en-us/library/system.net.mail.mailaddress.aspx" target="_blank">MailAddress</a> objects, the first of which is the “from” address and the second is the “to” address.&#160; 
+The first overload requires two <a href="https://msdn.microsoft.com/en-us/library/system.net.mail.mailaddress.aspx" target="_blank">MailAddress</a> objects, the first of which is the “from” address and the second is the “to” address.&#160; 
 
 
 
@@ -73,7 +73,7 @@ The second is to use the ArgumentList parameter.
 
 
 
-If you happen to have <a href="http://msdn.microsoft.com/en-us/library/system.net.mail.mailaddress.aspx" target="_blank">MailAddress</a> objects floating around, this might work for you.&#160; A more common scenario would be to use the next overload, which takes two strings.
+If you happen to have <a href="https://msdn.microsoft.com/en-us/library/system.net.mail.mailaddress.aspx" target="_blank">MailAddress</a> objects floating around, this might work for you.&#160; A more common scenario would be to use the next overload, which takes two strings.
 
 
 

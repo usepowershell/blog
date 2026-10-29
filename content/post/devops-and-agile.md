@@ -16,7 +16,7 @@ Some of this is answered by the size of your organization and the level of speci
 
 #### What is Agile?
 
-Agile ([per the Agile Manifesto](http://agilemanifesto.org/)) purports to improve software development by favoring:
+Agile ([per the Agile Manifesto](https://agilemanifesto.org/)) purports to improve software development by favoring:
 
 > Individuals and interactions over processes and tools
 

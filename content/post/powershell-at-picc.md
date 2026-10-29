@@ -11,7 +11,7 @@ title: PowerShell at PICC
 
 ---
 
-I had a great time with my classes at [PICC](http://www.picconf.org/).&#160; Both the PowerShell Fundamentals class and the PowerShell Tips and Tricks class were a lot of fun and resulted in great conversations at the breaks and after the classes.
+I had a great time with my classes at [PICC](https://www.picconf.org/).&#160; Both the PowerShell Fundamentals class and the PowerShell Tips and Tricks class were a lot of fun and resulted in great conversations at the breaks and after the classes.
 
 
 

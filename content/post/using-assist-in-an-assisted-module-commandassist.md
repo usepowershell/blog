@@ -44,7 +44,7 @@ What I then got was:
 
 
 
-<a href="http://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf4c2e4b0c945709cfb92/1313229027000/?format=original">![image](http://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf4c2e4b0c945709cfb95/1313229028000/?format=original "image")</a>
+<a href="https://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf4c2e4b0c945709cfb92/1313229027000/?format=original">![image](https://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf4c2e4b0c945709cfb95/1313229028000/?format=original "image")</a>
 
 
 
@@ -74,7 +74,7 @@ As you add parameters, the command line at the top will change to reflect your c
 
 
 
-<a href="http://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf4c2e4b0c945709cfb98/1313229029000/?format=original">![image](http://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf4c2e4b0c945709cfb9b/1313229031000/?format=original "image")</a>
+<a href="https://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf4c2e4b0c945709cfb98/1313229029000/?format=original">![image](https://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf4c2e4b0c945709cfb9b/1313229031000/?format=original "image")</a>
 
 
 
@@ -86,7 +86,7 @@ If I change parameter sets, the command line changes to reflect my new parameter
 
 
 
-<a href="http://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf4c2e4b0c945709cfb9e/1313229032000/?format=original">![image](http://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf4c2e4b0c945709cfba1/1313229033000/?format=original "image")</a>
+<a href="https://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf4c2e4b0c945709cfb9e/1313229032000/?format=original">![image](https://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf4c2e4b0c945709cfba1/1313229033000/?format=original "image")</a>
 
 
 

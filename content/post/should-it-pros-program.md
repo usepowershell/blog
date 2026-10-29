@@ -22,7 +22,7 @@ After a while, we get used to working with certain cmdlets and a handful of .NET
 
 #### Can I do it through Powershell?
 
-And often the answer is "yes, but..".  That trailing "but" is often the killer.  If you only know PowerShell, that can lead you down the path to a [herd of yaks desperately in need of a shave](http://www.hanselman.com/blog/YakShavingDefinedIllGetThatDoneAsSoonAsIShaveThisYak.aspx).  This is where you find out if you are truly a "Professional".
+And often the answer is "yes, but..".  That trailing "but" is often the killer.  If you only know PowerShell, that can lead you down the path to a [herd of yaks desperately in need of a shave](https://www.hanselman.com/blog/YakShavingDefinedIllGetThatDoneAsSoonAsIShaveThisYak.aspx).  This is where you find out if you are truly a "Professional".
 
 That title of IT Pro(fessional) has been the justification of many raises, promotions (had to get off that helpdesk somehow), and new jobs.  Now we need to live up to that name.
 

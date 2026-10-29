@@ -25,5 +25,5 @@ Friday was my last day with Edgenet, where I've worked as a senior sysadmin for 
 
 
 
-Today, I start in my new role as a sysadmin for the StackExchange family of sites, including ServerFault and StackOverflow.  I've been a user of StackOverflow since the early private beta days.  I'll be joining a team of great sysadmins ([Kyle](http://stackexchange.com/users/37483/kyle-brandt), [George](http://stackexchange.com/users/87602/zypher), [Pete](http://stackexchange.com/users/490194/peter-grace), and [Bart](http://stackexchange.com/users/28003/bart-silverstrim)), several of which I came to know at the PICC conference over the past couple of years.  More to come as I find my way in my new role.
+Today, I start in my new role as a sysadmin for the StackExchange family of sites, including ServerFault and StackOverflow.  I've been a user of StackOverflow since the early private beta days.  I'll be joining a team of great sysadmins ([Kyle](https://stackexchange.com/users/37483/kyle-brandt), [George](https://stackexchange.com/users/87602/zypher), [Pete](https://stackexchange.com/users/490194/peter-grace), and [Bart](https://stackexchange.com/users/28003/bart-silverstrim)), several of which I came to know at the PICC conference over the past couple of years.  More to come as I find my way in my new role.
 

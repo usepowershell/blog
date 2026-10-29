@@ -12,7 +12,7 @@ title: Dear Devs,  Give Us The Tools.  K Thx
 
 ---
 
-I just finished listening to the latest <a href="http://herdingcode.com" target="_blank">Herding Code</a> podcast <a href="http://herdingcode.com/?p=191" target="_blank">(#52)</a> where the hosts (<a href="http://odetocode.com/" target="_blank">K. Scott Allen</a>, <a href="http://weblogs.asp.net/kdente" target="_blank">Kevin Dente</a>, <a href="http://lazycoder.com/" target="_blank">Scott Koon</a>, and <a href="http://weblogs.asp.net/jgalloway" target="_blank">Jon Galloway</a>) talked with <a href="http://netcave.org/" target="_blank">Alan Stevens</a> ( C# MVP and ASP Insider) and <a href="http://blogs.msdn.com/gduthie/" target="_blank">G. Andrew Duthie</a> (author and Microsoft Developer Evangelist) about a debate that began on Twitter regarding “Real Software Development vs Microsoft Bubble Development”.
+I just finished listening to the latest <a href="https://herdingcode.com" target="_blank">Herding Code</a> podcast <a href="https://herdingcode.com/?p=191" target="_blank">(#52)</a> where the hosts (<a href="https://odetocode.com/" target="_blank">K. Scott Allen</a>, <a href="https://weblogs.asp.net/kdente" target="_blank">Kevin Dente</a>, <a href="http://lazycoder.com/" target="_blank">Scott Koon</a>, and <a href="https://weblogs.asp.net/jgalloway" target="_blank">Jon Galloway</a>) talked with <a href="https://netcave.org/" target="_blank">Alan Stevens</a> ( C# MVP and ASP Insider) and <a href="https://blogs.msdn.com/gduthie/" target="_blank">G. Andrew Duthie</a> (author and Microsoft Developer Evangelist) about a debate that began on Twitter regarding “Real Software Development vs Microsoft Bubble Development”.
 What does that have to do with PowerShell and administrative tools?  The specifics of their conversation don’t have a lot of relevance to administrators and scripters, but one of the directions that their conversation took really resonated with me.
 
 
@@ -37,7 +37,7 @@ Another point made on the podcast was that Microsoft needed to do more to encour
 
 
 
-Now, we as the** users** of PowerShell **need to step up** and <span style="text-decoration: line-through;">convince</span> demand better administrative tooling from our vendors and internal development staffs.  Companies like <a href="http://www.quest.com/" target="_blank">Quest</a>, <a href="http://www.vmware.com/" target="_blank">VMWare</a>, <a href="http://www.idera.com/" target="_blank">Idera</a>,  <a href="http://www.compellent.com/" target="_blank">Compellent</a>, and others have gotten the message, but there are still many, many other products out there and many internal applications that suffer from inflexibility.
+Now, we as the** users** of PowerShell **need to step up** and <span style="text-decoration: line-through;">convince</span> demand better administrative tooling from our vendors and internal development staffs.  Companies like <a href="https://www.quest.com/" target="_blank">Quest</a>, <a href="https://www.vmware.com/" target="_blank">VMWare</a>, <a href="https://www.idera.com/" target="_blank">Idera</a>,  <a href="http://www.compellent.com/" target="_blank">Compellent</a>, and others have gotten the message, but there are still many, many other products out there and many internal applications that suffer from inflexibility.
 
 
 
@@ -61,9 +61,9 @@ So, here is the call to action:
 
 
 
-Let’s take our cue from the oft repeated concept in that <a href="http://herdingcode.com" target="_blank">Herding Code</a> podcast – there is a need for candid feedback and it is all about the tools that we have to live in and work with every day.
+Let’s take our cue from the oft repeated concept in that <a href="https://herdingcode.com" target="_blank">Herding Code</a> podcast – there is a need for candid feedback and it is all about the tools that we have to live in and work with every day.
 
 
 
-If by chance one of the guys from the Herding Code podcast (or any other developer-centric podcast like <a href="http://dotnetrocks.com/" target="_blank">.NET Rocks</a>, <a href="http://deepfriedbytes.com/" target="_blank">Deep Fried Bytes</a>, or <a href="http://blog.stackoverflow.com/" target="_blank">StackOverflow</a>) happens onto this post and wants to talk further, I’m available.  There are also a good number of PowerShell MVPs and community bloggers who I’m sure would love to provide some “candid feedback” to “developers in the trenches doing real development”.
+If by chance one of the guys from the Herding Code podcast (or any other developer-centric podcast like <a href="https://dotnetrocks.com/" target="_blank">.NET Rocks</a>, <a href="https://deepfriedbytes.com/" target="_blank">Deep Fried Bytes</a>, or <a href="https://blog.stackoverflow.com/" target="_blank">StackOverflow</a>) happens onto this post and wants to talk further, I’m available.  There are also a good number of PowerShell MVPs and community bloggers who I’m sure would love to provide some “candid feedback” to “developers in the trenches doing real development”.
 

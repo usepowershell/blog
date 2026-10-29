@@ -19,7 +19,7 @@ There are two places where you can configure your remote sessions..
 
 
 
-1) On the remote server – which is covered in a number of places and probably the most discoverable place to put configuration information..&#160; See the help for <a href="http://technet.microsoft.com/en-us/library/dd819508.aspx" target="_blank">about_Session_Configurations</a>.
+1) On the remote server – which is covered in a number of places and probably the most discoverable place to put configuration information..&#160; See the help for <a href="https://technet.microsoft.com/en-us/library/dd819508.aspx" target="_blank">about_Session_Configurations</a>.
 
 
 
@@ -31,11 +31,11 @@ There are two places where you can configure your remote sessions..
 
 
 
-One of the cool, lesser covered features in remoting is the ability to persist a remote connection to a module.&#160; After you establish a PSSession, you can use <a href="http://technet.microsoft.com/en-us/library/dd347679.aspx" target="_blank">Export-PSSession</a> to create a module that will hold the commands to create the proxies for the commands in that session, as well as the plumbing to recreate that session.
+One of the cool, lesser covered features in remoting is the ability to persist a remote connection to a module.&#160; After you establish a PSSession, you can use <a href="https://technet.microsoft.com/en-us/library/dd347679.aspx" target="_blank">Export-PSSession</a> to create a module that will hold the commands to create the proxies for the commands in that session, as well as the plumbing to recreate that session.
 
 
 
-<a href="http://technet.microsoft.com/en-us/library/dd347679.aspx" target="_blank">Export-PSSession</a> will create a script module, which you can modify to work how you would like..&#160; 
+<a href="https://technet.microsoft.com/en-us/library/dd347679.aspx" target="_blank">Export-PSSession</a> will create a script module, which you can modify to work how you would like..&#160; 
 
 
 

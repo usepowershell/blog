@@ -11,11 +11,11 @@ title: Time to Start Ramping Up for the Scripting Games
 
 ---
 
-The <a href="http://blogs.technet.com/b/heyscriptingguy/archive/2011/02/19/2011-scripting-games-all-links-on-one-page.aspx" target="_blank">2011 Scripting Games</a> are fast approaching (April 4th through the 15th)..
+The <a href="https://blogs.technet.com/b/heyscriptingguy/archive/2011/02/19/2011-scripting-games-all-links-on-one-page.aspx" target="_blank">2011 Scripting Games</a> are fast approaching (April 4th through the 15th)..
 
 
 
-If you’ve been holding off on learning a bit a PowerShell, now is the time to step up and try some of these events.&#160; <a href="http://twitter.com/scriptingguys" target="_blank">Ed Wilson</a> put together <a href="http://blogs.technet.com/b/heyscriptingguy/archive/2011/02/11/2011-scripting-games-study-guide.aspx" target="_blank">a study guide</a> to help prepare you for some of the skills and techniques you will exercise.
+If you’ve been holding off on learning a bit a PowerShell, now is the time to step up and try some of these events.&#160; <a href="https://twitter.com/scriptingguys" target="_blank">Ed Wilson</a> put together <a href="https://blogs.technet.com/b/heyscriptingguy/archive/2011/02/11/2011-scripting-games-study-guide.aspx" target="_blank">a study guide</a> to help prepare you for some of the skills and techniques you will exercise.
 
 
 
