@@ -18,7 +18,8 @@ jobs:
       - name: Run Hugo
         uses: crazy-max/ghaction-hugo@v1
         with:
-          version: latest
+          # Keep pinned until Ghostwriter's legacy internal templates are migrated.
+          version: '0.123.8'
           extended: false
           args: --baseURL=https://witty-meadow-05da12910-${{ github.event.number}}.centralus.azurestaticapps.net/
       - name: Deploy
