@@ -12,9 +12,9 @@ disqusShortname = "stevenmurawski"
 post = "/:year/:month/:filename/"
 
 [params]
-github = "https://github.com/smurawski"
+github = "https://github.com/usepowershell"
 linkedin = "https://linkedin.com/in/usepowershell"
-twitter = "https://twitter.com/stevenmurawski"
+twitter = "https://twitter.com/usepowershell"
 stackoverflow = "https://stackoverflow.com/users/1233/steven-murawski"
 shareTwitter = true
 shareFacebook = true
