@@ -1,0 +1,11 @@
+{{ define "main" }}
+<article class="essay">
+  <header>
+    <h1>Page not found</h1>
+    {{ partial "level.html" (dict "animated" false) }}
+  </header>
+  <div class="prose">
+    <p>That address isn’t on this site. The <a href="{{ "/" | relURL }}">front page</a> and the <a href="{{ "archive/" | relURL }}">archive</a> are the two ways back in.</p>
+  </div>
+</article>
+{{ end }}

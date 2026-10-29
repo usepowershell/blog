@@ -1,0 +1,23 @@
+{{- $links := slice -}}
+{{- if site.Params.shareX -}}
+  {{- $href := printf "https://x.com/intent/post?text=%s&url=%s" (.Title | urlquery) (.Permalink | urlquery) -}}
+  {{- $links = $links | append (dict "href" $href "label" "Share on X") -}}
+{{- end -}}
+{{- if site.Params.shareFacebook -}}
+  {{- $href := printf "https://www.facebook.com/sharer/sharer.php?u=%s" (.Permalink | urlquery) -}}
+  {{- $links = $links | append (dict "href" $href "label" "Share on Facebook") -}}
+{{- end -}}
+{{- if site.Params.shareLinkedIn -}}
+  {{- $href := printf "https://www.linkedin.com/sharing/share-offsite/?url=%s" (.Permalink | urlquery) -}}
+  {{- $links = $links | append (dict "href" $href "label" "Share on LinkedIn") -}}
+{{- end -}}
+{{- with $links }}
+<section class="share" aria-labelledby="share-heading">
+  <h2 id="share-heading">Share</h2>
+  <ul>
+    {{- range . }}
+    <li><a href="{{ .href }}" rel="noopener noreferrer">{{ .label }}</a></li>
+    {{- end }}
+  </ul>
+</section>
+{{- end }}

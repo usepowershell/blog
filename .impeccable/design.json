@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-29T16:45:00Z",
+  "title": "Design System: The More Things Change",
+  "extensions": {
+    "colorMeta": {
+      "ground": { "role": "neutral", "displayName": "Cover", "canonical": "#d5e3da", "tonalRamp": ["#14241c", "#1e3329", "#2c4a3b", "#3c5348", "#6d8a7c", "#b7c9be", "#d5e3da", "#f3f7f4"] },
+      "sheet": { "role": "neutral", "displayName": "Sheet", "canonical": "#f3f7f4", "tonalRamp": ["#14241c", "#1e3329", "#3c5348", "#6d8a7c", "#b7c9be", "#d5e3da", "#e6efe9", "#f3f7f4"] },
+      "ink": { "role": "neutral", "displayName": "Ink", "canonical": "#14241c", "tonalRamp": ["#0c1612", "#14241c", "#1e3329", "#3c5348", "#6d8a7c", "#b7c9be", "#d5e3da", "#f3f7f4"] },
+      "muted": { "role": "neutral", "displayName": "Margin ink", "canonical": "#3c5348", "tonalRamp": ["#14241c", "#24382f", "#3c5348", "#567566", "#7d998c", "#a8bfb4", "#d5e3da", "#f3f7f4"] },
+      "mark": { "role": "primary", "displayName": "Leveling red", "canonical": "#9d1c1c", "tonalRamp": ["#3f0c0c", "#6b1414", "#9d1c1c", "#c4473a", "#e07a70", "#f0b2ab", "#f8d8d4", "#fdf4f3"] },
+      "link": { "role": "primary", "displayName": "Link green", "canonical": "#143d32", "tonalRamp": ["#0c241e", "#143d32", "#1d5c4b", "#2e7a64", "#4d9a82", "#8fc4b4", "#d5eee4", "#f3f7f4"] }
+    },
+    "typographyMeta": {
+      "station": { "displayName": "Station", "purpose": "Wordmark, years, dates, and reading-order numerals." },
+      "body": { "displayName": "Reading", "purpose": "Essays, navigation, and lists." },
+      "mono": { "displayName": "Code", "purpose": "Code only." }
+    },
+    "shadows": [],
+    "motion": [
+      { "name": "level-draw", "value": "cubic-bezier(0.16, 1, 0.3, 1)", "purpose": "Masthead double rule draws in from the left once." }
+    ],
+    "breakpoints": [
+      { "name": "stack-rows", "value": "560px" },
+      { "name": "margin-date", "value": "800px" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Theme toggle",
+      "kind": "button",
+      "refersTo": "theme-toggle",
+      "description": "Switches the field book between the desk and the lamp.",
+      "html": "<button class=\"ds-theme-toggle\" type=\"button\">Dark</button>",
+      "css": ".ds-theme-toggle { font-family: 'Atkinson Hyperlegible', 'Segoe UI', sans-serif; font-size: 1.0625rem; color: #14241c; background: transparent; border: 1px solid #b7c9be; min-height: 2.75rem; padding: 0.35rem 0.75rem; border-radius: 0; cursor: pointer; } .ds-theme-toggle:hover { border-color: #9d1c1c; color: #9d1c1c; } .ds-theme-toggle:focus-visible { outline: 2px solid #9d1c1c; outline-offset: 3px; }"
+    },
+    {
+      "name": "Primary nav",
+      "kind": "nav",
+      "refersTo": "theme-toggle",
+      "description": "About, Blog, DevOps Reading List, Archive. Current item is the leveling red.",
+      "html": "<nav class=\"ds-nav\"><a href=\"#\">About</a><a href=\"#\" aria-current=\"page\">Blog</a><a href=\"#\">Archive</a></nav>",
+      "css": ".ds-nav { display: flex; gap: 1.25rem; font-family: 'Atkinson Hyperlegible', 'Segoe UI', sans-serif; } .ds-nav a { color: #14241c; text-decoration: none; padding: 0.65rem 0; } .ds-nav a:hover { text-decoration: underline; text-underline-offset: 0.2em; } .ds-nav a[aria-current='page'] { color: #9d1c1c; text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 0.25em; } .ds-nav a:focus-visible { outline: 2px solid #9d1c1c; outline-offset: 3px; }"
+    },
+    {
+      "name": "Entry",
+      "kind": "custom",
+      "refersTo": "theme-toggle",
+      "description": "A dated row. The whole row is the link.",
+      "html": "<a class=\"ds-entry\" href=\"#\"><time>19 Mar 2020</time><span>Working Remotely</span></a>",
+      "css": ".ds-entry { display: grid; grid-template-columns: 8.5rem 1fr; gap: 0.35rem 1rem; color: #14241c; text-decoration: none; font-family: 'Atkinson Hyperlegible', 'Segoe UI', sans-serif; padding: 0.4rem 0; } .ds-entry time { font-family: 'Big Shoulders Text', 'Arial Narrow', sans-serif; font-weight: 700; color: #3c5348; white-space: nowrap; } .ds-entry span { text-decoration: underline; text-decoration-color: #b7c9be; text-underline-offset: 0.18em; } .ds-entry:hover span { text-decoration-color: #9d1c1c; } .ds-entry:focus-visible { outline: 2px solid #9d1c1c; outline-offset: 3px; }"
+    },
+    {
+      "name": "Double rule",
+      "kind": "custom",
+      "refersTo": "theme-toggle",
+      "description": "The leveling mark under the wordmark and section headings.",
+      "html": "<div class=\"ds-level\"><span></span><span></span></div>",
+      "css": ".ds-level span { display: block; height: 1px; background: #9d1c1c; } .ds-level span + span { margin-top: 4px; }"
+    },
+    {
+      "name": "Archived label",
+      "kind": "chip",
+      "refersTo": "theme-toggle",
+      "description": "Marks a post that remains published but is off the front page.",
+      "html": "<span class=\"ds-flag\">Archived</span>",
+      "css": ".ds-flag { color: #9d1c1c; font-family: 'Big Shoulders Text', 'Arial Narrow', sans-serif; font-weight: 700; letter-spacing: 0.04em; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The field book.",
+    "overview": "The site is a bound level book: a green page on a deeper green cover, with a double red leveling rule as the only ornament. The reading column stays quiet so a 2014 essay and a 2020 debugging note can sit in the same measure.",
+    "keyCharacteristics": [
+      "The cover (ground) shows around a lighter sheet. Nothing floats on a shadow.",
+      "Big Shoulders Text carries the wordmark, years, and reading-order numerals. Atkinson Hyperlegible carries the essays.",
+      "One motion: the masthead rule draws in from the left. Section rules are the same mark, already there.",
+      "Dark mode is the same book under a lamp, not a second theme."
+    ],
+    "rules": [],
+    "dos": [
+      "Keep post permalinks on /:year/:month/:filename/.",
+      "Edit the home reading list in data/start-here.yaml.",
+      "Mark a post archived: true to remove it from the front page without taking down its URL.",
+      "Keep focus visible, and keep body text on the sheet at 68 characters."
+    ],
+    "donts": [
+      "Put a card around every essay or list row.",
+      "Use the station face for paragraphs.",
+      "Add analytics, comment embeds, or a Google+ control back into the chrome.",
+      "Label the X profile or the share link as Twitter."
+    ]
+  }
+}

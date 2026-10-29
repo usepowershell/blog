@@ -1,0 +1,9 @@
+<li>
+  <a class="entry" href="{{ .RelPermalink }}">
+    {{- if not .Date.IsZero }}
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
+    {{- end }}
+    <span class="entry-title">{{ .Title }}</span>
+    {{- if .Params.archived }}<span class="flag">Archived</span>{{ end }}
+  </a>
+</li>

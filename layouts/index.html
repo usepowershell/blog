@@ -1,0 +1,51 @@
+{{ define "main" }}
+{{- $posts := where site.RegularPages "Type" "post" -}}
+{{- $posts = where $posts "Params.archived" "ne" true -}}
+{{- $posts = sort $posts "Title" "asc" -}}
+{{- $posts = sort $posts "Date" "desc" -}}
+{{- $pag := .Paginate $posts -}}
+<section class="recent" aria-labelledby="recent-heading">
+  <div class="section-head">
+    <h1 id="recent-heading">Recent posts</h1>
+    <a href="{{ "archive/" | relURL }}">All posts by year</a>
+  </div>
+  {{ partial "level.html" (dict "animated" false) }}
+  {{- if $pag.Pages }}
+  <ul class="entries">
+    {{- range $pag.Pages }}
+      {{ partial "entry.html" . }}
+    {{- end }}
+  </ul>
+  {{ partial "pager.html" . }}
+  {{- else }}
+  <p>Nothing on the front page. Archived writing is on the <a href="{{ "archive/" | relURL }}">archive</a>.</p>
+  {{- end }}
+</section>
+{{- if eq $pag.PageNumber 1 -}}
+  {{- with index site.Data "start-here" }}
+  <div class="start">
+    {{- range .groups }}
+    <section class="start-group" aria-labelledby="start-{{ .title | urlize }}">
+      <h2 id="start-{{ .title | urlize }}">{{ .title }}</h2>
+      {{ partial "level.html" (dict "animated" false) }}
+      {{- $pages := slice -}}
+      {{- range .posts }}
+        {{- with site.GetPage . }}
+          {{- $pages = $pages | append . -}}
+        {{- else }}
+          {{- warnf "start-here: no page at %q" . -}}
+        {{- end }}
+      {{- end }}
+      <ul class="entries">
+        {{- $pages = sort $pages "Title" "asc" -}}
+        {{- $pages = sort $pages "Date" "desc" -}}
+        {{- range $pages }}
+          {{ partial "entry.html" . }}
+        {{- end }}
+      </ul>
+    </section>
+    {{- end }}
+  </div>
+  {{- end }}
+{{- end }}
+{{ end }}

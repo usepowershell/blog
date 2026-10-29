@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="{{ site.LanguageCode | default "en" }}">
+<head>
+  {{ partial "head.html" . }}
+</head>
+<body>
+  <a class="skip" href="#content">Skip to content</a>
+  {{ partial "mast.html" . }}
+  <main id="content">
+    <div class="sheet">
+      {{ block "main" . }}{{ end }}
+    </div>
+  </main>
+  {{ partial "footer.html" . }}
+  <script src="{{ "js/theme.js" | relURL }}"></script>
+</body>
+</html>
