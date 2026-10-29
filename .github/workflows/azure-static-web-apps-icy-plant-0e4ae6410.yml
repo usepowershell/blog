@@ -19,12 +19,14 @@ jobs:
         with:
           submodules: true
           lfs: false
-      - name: Run Hugo
-        uses: crazy-max/ghaction-hugo@v1
+      - name: Set up Hugo
+        uses: peaceiris/actions-hugo@v3
         with:
-          version: latest
+          # Keep pinned until Ghostwriter's legacy internal templates are migrated.
+          hugo-version: '0.123.8'
           extended: false
-          args: --baseURL=https://stevenmurawski.com/
+      - name: Run Hugo
+        run: hugo --baseURL=https://stevenmurawski.com/
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1

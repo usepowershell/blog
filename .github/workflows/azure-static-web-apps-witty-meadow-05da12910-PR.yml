@@ -15,12 +15,14 @@ jobs:
       - uses: actions/checkout@v2
         with:
           submodules: true
-      - name: Run Hugo
-        uses: crazy-max/ghaction-hugo@v1
+      - name: Set up Hugo
+        uses: peaceiris/actions-hugo@v3
         with:
-          version: latest
+          # Keep pinned until Ghostwriter's legacy internal templates are migrated.
+          hugo-version: '0.123.8'
           extended: false
-          args: --baseURL=https://witty-meadow-05da12910-${{ github.event.number}}.centralus.azurestaticapps.net/
+      - name: Run Hugo
+        run: hugo --baseURL=https://witty-meadow-05da12910-${{ github.event.number}}.centralus.azurestaticapps.net/
       - name: Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v0.0.1-preview
