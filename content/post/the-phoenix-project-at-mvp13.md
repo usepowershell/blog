@@ -12,7 +12,7 @@ title: 'The Phoenix Project At #MVP13'
 The Microsoft MVP Summit is coming up again (yes, that's twice this year) and I'm getting prepped to head out to Bellevue.
 
 
-For this trip, I've got a "special offer". &nbsp;I'll be giving away 100 copies of "[The Phoenix Project](http://itrevolution.com/books/phoenix-project-devops-book/)", thanks to [Kevin Behr](https://twitter.com/kevinbehr), [Gene Kim](https://twitter.com/realgenekim), and [George Spafford](https://twitter.com/gspaff) (the authors of the book).
+For this trip, I've got a "special offer". &nbsp;I'll be giving away 100 copies of "[The Phoenix Project](https://itrevolution.com/books/phoenix-project-devops-book/)", thanks to [Kevin Behr](https://twitter.com/kevinbehr), [Gene Kim](https://twitter.com/realgenekim), and [George Spafford](https://twitter.com/gspaff) (the authors of the book).
 
 
 ## What is "The Phoenix Project"?

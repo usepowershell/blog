@@ -26,7 +26,7 @@ With the prodding of [Matt Simmons](http://www.standalone-sysadmin.com/blog/), I
 
 ## So what is LOPSA?
 
-<p dir="ltr">Many of the readers of my blog might be unfamiliar with [LOPSA](https://lopsa.org/), so here's the short version - LOPSA is The League of Professional Systems Administrators, a professional organization dedicated to raising the art and science of systems administration. &nbsp;There are a number of local LOPSA chapters and affiliates, and two affiliated regional conferences ([LOPSA-East ](http://lopsa-east.org/)and the [Cascadia IT Conference](http://casitconf.org/)). &nbsp;LOPSA affiliated trainers also engage with several other conferences. LOPSA members enjoy several discounts, as well as access to professional and liability insurance.
+<p dir="ltr">Many of the readers of my blog might be unfamiliar with [LOPSA](https://lopsa.org/), so here's the short version - LOPSA is The League of Professional Systems Administrators, a professional organization dedicated to raising the art and science of systems administration. &nbsp;There are a number of local LOPSA chapters and affiliates, and two affiliated regional conferences ([LOPSA-East ](https://lopsa-east.org/)and the [Cascadia IT Conference](https://casitconf.org/)). &nbsp;LOPSA affiliated trainers also engage with several other conferences. LOPSA members enjoy several discounts, as well as access to professional and liability insurance.
 
 
 # So why should I be on the board?
@@ -56,7 +56,7 @@ First, I'd like to raise awareness of LOPSA in the traditional Microsoft communi
 Second, if LOPSA is positioned as the organization representing systems administrators, where was the content representing our take on Heartbleed? &nbsp;That was a bit of a news story, but outside a few member blogs, was there an official LOPSA statement?
 
   
-      ![](http://static1.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/5367bdb2e4b05b7433d4e9a4/1399307698603/#img.png)
+      ![](https://static1.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/5367bdb2e4b05b7433d4e9a4/1399307698603/#img.png)
   
 
 

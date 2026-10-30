@@ -38,4 +38,4 @@ It'd be better to extract a function to wrap the conditional and leave an expres
 Doesn't this read a bit better?
 
  
-   <script src="https://gist.github.com/smurawski/9c980a11471ee1de7c4f.js"></script>
+   <script src="https://gist.github.com/usepowershell/9c980a11471ee1de7c4f.js"></script>

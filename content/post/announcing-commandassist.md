@@ -81,5 +81,5 @@ For the module in general:
 *   Other requests     
 
 
-If you think this module has some value or have a feature you would like to see, please leave a comment or ping me on twitter, or stop by the <a href="http://powerscripting.wordpress.com/2011/08/01/up-next-steven-murawski/" target="_blank">PowerScripting Podcast this evening</a> and ask in the chat room.&#160; <a href="http://download.usepowershell.com/CommandAssist.zip" target="_blank">Grab the scripts</a>, look through them and let me know what you think!
+If you think this module has some value or have a feature you would like to see, please leave a comment or ping me on twitter, or stop by the <a href="https://powerscripting.wordpress.com/2011/08/01/up-next-steven-murawski/" target="_blank">PowerScripting Podcast this evening</a> and ask in the chat room.&#160; <a href="http://download.usepowershell.com/CommandAssist.zip" target="_blank">Grab the scripts</a>, look through them and let me know what you think!
 

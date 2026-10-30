@@ -11,7 +11,7 @@ title: Waiter, There's a Bug in My Get-Help!
 
 ---
 
-My friend <a href="http://robertrobelo.wordpress.com/about/" target="_blank">Robert Robelo</a> was kind enough to point out a problem with the proxies created by the CommandAssist module.
+My friend <a href="https://robertrobelo.wordpress.com/about/" target="_blank">Robert Robelo</a> was kind enough to point out a problem with the proxies created by the CommandAssist module.
 
 
 

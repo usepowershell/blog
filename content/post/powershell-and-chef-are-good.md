@@ -34,7 +34,7 @@ How is your current job preparing you for your next role?  Either in your curren
 
 For me, learning PowerShell, learning development principals and patterns, watching the industry, has been tremendously helpful.
 
-I love Scott Adams (author of Dilbert).  He has a very interesting way of thinking about things that is just different.  In his latest book, [How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life](http://www.amazon.com/How-Fail-Almost-Everything-Still/dp/1591847745/ref=sr_1_1?ie=UTF8&qid=1459488843&sr=8-1&keywords=scott+adams), Scott suggests that each skill you learn doubles your chances for finding the next job.  Not everything is weighted equally, but rather than getting bogged down in the details, let's think about it with an example - me
+I love Scott Adams (author of Dilbert).  He has a very interesting way of thinking about things that is just different.  In his latest book, [How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life](https://www.amazon.com/How-Fail-Almost-Everything-Still/dp/1591847745/ref=sr_1_1?ie=UTF8&qid=1459488843&sr=8-1&keywords=scott+adams), Scott suggests that each skill you learn doubles your chances for finding the next job.  Not everything is weighted equally, but rather than getting bogged down in the details, let's think about it with an example - me
 
 * I know PowerShell - there are a good number of other admins out there that really know PowerShell
 * Then add my experience with Windows Server roles and features - still a good sized pool

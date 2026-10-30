@@ -71,7 +71,7 @@ We can throw up our hands and say,"I miss the old days where we got a finished p
 
 ## Yep, I Said It - Continuous Delivery
 
-The PowerShell team, in my view, is on the path to Continuous Delivery.  Continuous Delivery is the process by which your main branch of code is always "releaseable".  I'll refer you to [the Continuous Delivery book by Jez Humble and David Farley](http://www.amazon.com/gp/product/B003YMNVC0) for a more in-depth discussion on the topic.
+The PowerShell team, in my view, is on the path to Continuous Delivery.  Continuous Delivery is the process by which your main branch of code is always "releaseable".  I'll refer you to [the Continuous Delivery book by Jez Humble and David Farley](https://www.amazon.com/gp/product/B003YMNVC0) for a more in-depth discussion on the topic.
 
 *NOTE: Continuous Delivery is NOT the same as Continuous Deployment.  In Continuous Deployment, every successful build is shipped.  Continuous Delivery's goal is every build is "ship-able".*
 

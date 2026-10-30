@@ -8,7 +8,7 @@ title: Setting Up For Failure
 
 ---
 
-I've recently started training in Brazilian Jiu Jitsu (at [Open Guard Gym in Oconomowoc, WI](http://openguardgym.com)).  To set the stage (for those of you who haven't met me or seen me recently), I'm looking at age 40 in the rearview mirror and I am not in great shape (unless round is a great shape).
+I've recently started training in Brazilian Jiu Jitsu (at [Open Guard Gym in Oconomowoc, WI](https://openguardgym.com)).  To set the stage (for those of you who haven't met me or seen me recently), I'm looking at age 40 in the rearview mirror and I am not in great shape (unless round is a great shape).
 
 Over the past month, I've noticed I keep bringing up my age and state of fitness at the gym.  I would tell myself it was to set the context for others I'm training with, but what it sounds like is
 

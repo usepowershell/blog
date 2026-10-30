@@ -154,7 +154,7 @@ Facebook: [https://www.facebook.com/events/280256018711626/](https://www.faceboo
 
 
 
-LinkedIn: [http://www.usenix.org/linkedin](http://www.usenix.org/linkedin)
+LinkedIn: [https://www.usenix.org/linkedin](https://www.usenix.org/linkedin)
 
 
 
@@ -166,7 +166,7 @@ Twitter: [https://twitter.com/lisaconference](https://twitter.com/lisaconference
 
 
 
-YouTube: [http://www.youtube.com/user/USENIXAssociation](http://www.youtube.com/user/USENIXAssociation)
+YouTube: [https://www.youtube.com/user/USENIXAssociation](https://www.youtube.com/user/USENIXAssociation)
 
 
 

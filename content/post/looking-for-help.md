@@ -13,7 +13,7 @@ title: Looking for Help?
 
 ---
 
-PowerShell contains a vast array of content in it's help files.&#160; The help files are exposed by the <a href="http://go.microsoft.com/fwlink/?LinkID=113316" target="_blank">Get-Help cmdlet</a>.&#160; So, what's really under the covers in the help system?
+PowerShell contains a vast array of content in it's help files.&#160; The help files are exposed by the <a href="https://go.microsoft.com/fwlink/?LinkID=113316" target="_blank">Get-Help cmdlet</a>.&#160; So, what's really under the covers in the help system?
 
 
 
@@ -30,7 +30,7 @@ First off, Get-Help let's us search all the help it has access to (see below on 
 
 
 
-Let's start with an example.&#160; I'm going to compete in the Beginner category of the <a href="http://bit.ly/2011sgall" target="_blank">Scripting Games</a> for Event #1.&#160; That event wants me to find out if an program being run is a private build or not.&#160; Since the program is running, we need to deal with processes.&#160; But what can PowerShell do with processes?
+Let's start with an example.&#160; I'm going to compete in the Beginner category of the <a href="https://bit.ly/2011sgall" target="_blank">Scripting Games</a> for Event #1.&#160; That event wants me to find out if an program being run is a private build or not.&#160; Since the program is running, we need to deal with processes.&#160; But what can PowerShell do with processes?
 
 
 
@@ -79,7 +79,7 @@ DESCRIPTION
     By default, Get-Process returns a process object that has detailed information about the process and supports methods that let you start and stop the process. You can also use the parameters of Get-Process to get file version information for the program that runs in the process and to get the modules that the process loaded.
 
 RELATED LINKS
-    Online version: http://go.microsoft.com/fwlink/?LinkID=113324
+    Online version: https://go.microsoft.com/fwlink/?LinkID=113324
     Get-Process
     Start-Process
     Stop-Process
@@ -221,7 +221,7 @@ The last tip/trick that Get-Help leaves us is the -Online parameter.&#160; If a 
 
 
 
-The help files are stored in a couple of ways.&#160; First off, there are a series of XML files (<a href="http://en.wikipedia.org/wiki/Microsoft_Assistance_Markup_Language" target="_blank">using MAML - Microsoft Assistance Markup Language</a>) that contain the help under a localized directory in $pshome (an automatic variable that points to where PowerShell is installed).&#160; 
+The help files are stored in a couple of ways.&#160; First off, there are a series of XML files (<a href="https://en.wikipedia.org/wiki/Microsoft_Assistance_Markup_Language" target="_blank">using MAML - Microsoft Assistance Markup Language</a>) that contain the help under a localized directory in $pshome (an automatic variable that points to where PowerShell is installed).&#160; 
 
 
 
@@ -229,5 +229,5 @@ Snapin and module authors can include MAML files to provide help to users of tho
 
 
 
-Finally, scripters can create <a href="http://go.microsoft.com/fwlink/?LinkID=144309" target="_blank">Comment Based Help</a> for their scripts and functions.&#160; The cool thing about that is that your scripts and functions can behave exactly like the built in commands in providing help on usage, parameters, and examples.&#160; If you are really ambitious, you can also create online documentation and link to that.
+Finally, scripters can create <a href="https://go.microsoft.com/fwlink/?LinkID=144309" target="_blank">Comment Based Help</a> for their scripts and functions.&#160; The cool thing about that is that your scripts and functions can behave exactly like the built in commands in providing help on usage, parameters, and examples.&#160; If you are really ambitious, you can also create online documentation and link to that.
 

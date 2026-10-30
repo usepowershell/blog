@@ -12,12 +12,12 @@ title: Exploring the .NET Framework With PowerShell – Terminology (Part 1)
 
 ---
 
-PowerShell opens up the <a href="http://msdn.microsoft.com/en-us/netframework/default.aspx" target="_blank">.NET Framework</a> for a large new group of consumers, IT Pro’s (or systems administrators).  Microsoft developers have been working for years with the .NET Framework and now that rich sea of resources is available from our command line.
-One of the first hurdles that many IT Pro’s come across when trying to see where the <a href="http://msdn.microsoft.com/en-us/netframework/default.aspx" target="_blank">.NET Framework</a> fits into their workflow is the terminology. 
+PowerShell opens up the <a href="https://msdn.microsoft.com/en-us/netframework/default.aspx" target="_blank">.NET Framework</a> for a large new group of consumers, IT Pro’s (or systems administrators).  Microsoft developers have been working for years with the .NET Framework and now that rich sea of resources is available from our command line.
+One of the first hurdles that many IT Pro’s come across when trying to see where the <a href="https://msdn.microsoft.com/en-us/netframework/default.aspx" target="_blank">.NET Framework</a> fits into their workflow is the terminology. 
 
 
 
-Before we start digging into the guts of the <a href="http://msdn.microsoft.com/en-us/netframework/default.aspx" target="_blank">.NET Framework</a>, let’s cover some definitions:
+Before we start digging into the guts of the <a href="https://msdn.microsoft.com/en-us/netframework/default.aspx" target="_blank">.NET Framework</a>, let’s cover some definitions:
 
 
 

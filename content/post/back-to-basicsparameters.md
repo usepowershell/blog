@@ -15,7 +15,7 @@ title: Back to Basics–Parameters
 
 ---
 
-My previous posts about the <a href="http://bit.ly/2011sgall" target="_blank">Scripting Games</a> had many references to how parameters were used in scripts and functions.&#160; Since those posts, I’ve had several requests to expand on that, so here we go…
+My previous posts about the <a href="https://bit.ly/2011sgall" target="_blank">Scripting Games</a> had many references to how parameters were used in scripts and functions.&#160; Since those posts, I’ve had several requests to expand on that, so here we go…
 
 ## In the Beginning…
 
@@ -74,7 +74,7 @@ function Do-Something ()
 
     Version 2 of PowerShell kicks parameters into high gear.&#160; All the cool things that developers could do in managed code writing a PowerShell cmdlet were now in the hands of scripters.
 
-    By building on to the parameter declarations and adding one or more “<a href="http://technet.microsoft.com/en-us/library/dd347600.aspx" target="_blank">attributes</a>”, we can do all sorts of wonderful things.&#160; (This is by no means an exhaustive list.&#160; Check the <a href="http://technet.microsoft.com/en-us/library/dd347600.aspx" target="_blank">about_Advanced_Parameters</a> help topic for further information.)
+    By building on to the parameter declarations and adding one or more “<a href="https://technet.microsoft.com/en-us/library/dd347600.aspx" target="_blank">attributes</a>”, we can do all sorts of wonderful things.&#160; (This is by no means an exhaustive list.&#160; Check the <a href="https://technet.microsoft.com/en-us/library/dd347600.aspx" target="_blank">about_Advanced_Parameters</a> help topic for further information.)
 
     We can
 

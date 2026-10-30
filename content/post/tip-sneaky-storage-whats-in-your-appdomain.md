@@ -11,7 +11,7 @@ title: 'Tip: Sneaky Storage – What’s in your AppDomain?'
 
 ---
 
-Since PowerShell is built on .NET, there is a <a href="http://msdn.microsoft.com/en-us/library/system.appdomain.aspx" target="_blank">AppDomain</a> (I’ll go into more detail in a later post) which has a lot of information about the .NET environment (what assemblies are loaded, etc..).
+Since PowerShell is built on .NET, there is a <a href="https://msdn.microsoft.com/en-us/library/system.appdomain.aspx" target="_blank">AppDomain</a> (I’ll go into more detail in a later post) which has a lot of information about the .NET environment (what assemblies are loaded, etc..).
 
 
 
@@ -19,7 +19,7 @@ One feature that the AppDomain has is to store globally accessible name/value pa
 
 
 
-To access the AppDomain object, you can use the static property <a href="http://msdn.microsoft.com/en-us/library/system.appdomain.currentdomain.aspx" target="_blank">CurrentDomain</a> on the <a href="http://msdn.microsoft.com/en-us/library/system.appdomain.aspx" target="_blank">System.AppDomain</a> class. 
+To access the AppDomain object, you can use the static property <a href="https://msdn.microsoft.com/en-us/library/system.appdomain.currentdomain.aspx" target="_blank">CurrentDomain</a> on the <a href="https://msdn.microsoft.com/en-us/library/system.appdomain.aspx" target="_blank">System.AppDomain</a> class. 
 
 
 
@@ -31,7 +31,7 @@ PS C:\&gt; [system.appdomain]::CurrentDomain
 
 
 
-To save a name/value pair to your AppDomain, you can use the <a href="http://msdn.microsoft.com/en-us/library/system.appdomain.setdata.aspx" target="_blank">SetData</a> method.
+To save a name/value pair to your AppDomain, you can use the <a href="https://msdn.microsoft.com/en-us/library/system.appdomain.setdata.aspx" target="_blank">SetData</a> method.
 
 
 
@@ -43,7 +43,7 @@ Any object or collection can be saved in the AppDomain, and you are not limited 
 
 
 
-Accessing those values is just as easy, using the <a href="http://msdn.microsoft.com/en-us/library/system.appdomain.getdata.aspx" target="_blank">GetData</a> method.
+Accessing those values is just as easy, using the <a href="https://msdn.microsoft.com/en-us/library/system.appdomain.getdata.aspx" target="_blank">GetData</a> method.
 
 
 

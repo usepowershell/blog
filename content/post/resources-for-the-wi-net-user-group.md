@@ -28,7 +28,7 @@ I'll get the slides posted sometime (in the middle of migrating my machine to th
 
 
 
-—[Joel “](http://huddledmasses.org/)[Jaykul](http://huddledmasses.org/)[” ](http://huddledmasses.org/)[Bennet’s](http://huddledmasses.org/)[ Blog - http://huddledmasses.org](http://huddledmasses.org/)
+—[Joel “](https://huddledmasses.org/)[Jaykul](https://huddledmasses.org/)[” ](https://huddledmasses.org/)[Bennet’s](https://huddledmasses.org/)[ Blog - https://huddledmasses.org](https://huddledmasses.org/)
 
 
 

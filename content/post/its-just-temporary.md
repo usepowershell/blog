@@ -8,10 +8,10 @@ title: It's Just Temporary...
 
 ---
 
-><p style="margin-left:0px; margin-right:0px">[Vizzini](http://www.imdb.com/name/nm0001728/?ref_=tt_trv_qu): HE DIDN'T FALL? INCONCEIVABLE.
+><p style="margin-left:0px; margin-right:0px">[Vizzini](https://www.imdb.com/name/nm0001728/?ref_=tt_trv_qu): HE DIDN'T FALL? INCONCEIVABLE.
 
 
-[Inigo Montoya](http://www.imdb.com/name/nm0001597/?ref_=tt_trv_qu): You keep using that word. I do not think it means what you think it means.
+[Inigo Montoya](https://www.imdb.com/name/nm0001597/?ref_=tt_trv_qu): You keep using that word. I do not think it means what you think it means.
 
 
 
@@ -20,7 +20,7 @@ title: It's Just Temporary...
 
 
 
-Many of us have seen [The Princess Bride](http://www.imdb.com/title/tt0093779/?ref_=ttqt_qt_tt)&nbsp;and have heard Inigo's response to Vizzini after Vizzini has excessively used the work "inconceivable". &nbsp;In the systems administration world, we suffer the same lack of clarity around the word "temporary".
+Many of us have seen [The Princess Bride](https://www.imdb.com/title/tt0093779/?ref_=ttqt_qt_tt)&nbsp;and have heard Inigo's response to Vizzini after Vizzini has excessively used the work "inconceivable". &nbsp;In the systems administration world, we suffer the same lack of clarity around the word "temporary".
 
 
 Usually this comes from the desire to get a task done to either satisfy a persistent requester or due to a perceived urgency for the task. &nbsp;We phrase it harmless enough,

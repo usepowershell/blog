@@ -10,7 +10,7 @@ title: Want to PICC up some new skills?
 
 ---
 
-If you are out on the East Coast and want to pick up some new skills or freshen up some old ones, check out [PICC](http://www.picconf.org/) – the [Professional IT Community Conference](http://www.picconf.org/).
+If you are out on the East Coast and want to pick up some new skills or freshen up some old ones, check out [PICC](https://www.picconf.org/) – the [Professional IT Community Conference](https://www.picconf.org/).
 
 
 

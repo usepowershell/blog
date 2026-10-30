@@ -14,7 +14,7 @@ title: PowerShell, VMWare, and VESI in Wisconsin
 
 ---
 
-On May 19th, <a href="http://www.vmguru.com/" target="_blank">Scott Herold</a> and I will be presenting for the Wisconsin VMWare Users Group. 
+On May 19th, <a href="https://www.vmguru.com/" target="_blank">Scott Herold</a> and I will be presenting for the Wisconsin VMWare Users Group. 
 I'll be covering the basics of PowerShell, as well as an introduction to the VI Toolkit (for Windows)/PowerCLI.
 
 

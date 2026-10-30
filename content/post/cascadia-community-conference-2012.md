@@ -10,7 +10,7 @@ title: Cascadia Community Conference - 2012
 
 ---
 
-I had a great time at the <a href="http://www.casitconf.org/casitconf12/" target="_blank">Cascadia conference</a> this past weekend.&#160; I missed Friday, but got to spend all day Saturday teaching PowerShell to a great group of attendees.&#160; There were some great questions and interesting thoughts developed in both the Fundamentals class and the Tips and Tricks class.
+I had a great time at the <a href="https://www.casitconf.org/casitconf12/" target="_blank">Cascadia conference</a> this past weekend.&#160; I missed Friday, but got to spend all day Saturday teaching PowerShell to a great group of attendees.&#160; There were some great questions and interesting thoughts developed in both the Fundamentals class and the Tips and Tricks class.
 
 
 

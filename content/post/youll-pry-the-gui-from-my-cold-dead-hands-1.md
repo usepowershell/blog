@@ -19,7 +19,7 @@ Get over yourself.  We've had remote management tools for years (going back to t
  
    <blockquote class="twitter-tweet">
 
-"If you don't want to learn anything new, don't work in IT" via [@jsnover](https://twitter.com/jsnover) on [@Geek_Whisperers](https://twitter.com/Geek_Whisperers) [http://t.co/2cjxDNLBHj](http://t.co/2cjxDNLBHj)
+"If you don't want to learn anything new, don't work in IT" via [@jsnover](https://twitter.com/jsnover) on [@Geek_Whisperers](https://twitter.com/Geek_Whisperers) [https://t.co/2cjxDNLBHj](https://t.co/2cjxDNLBHj)
 — Steven Murawski (@StevenMurawski) [April 11, 2015](https://twitter.com/StevenMurawski/status/586948016646426624)
 
 

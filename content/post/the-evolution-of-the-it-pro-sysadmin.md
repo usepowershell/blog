@@ -8,7 +8,7 @@ title: The Evolution Of The IT Pro / SysAdmin
 
 ---
 
-There have recently been several articles on the changing face of the IT admin. &nbsp;One of my favorites has been the <a href="http://donjones.com/2014/02/25/so-long-it-pro/" data-cke-saved-href="http://donjones.com/2014/02/25/so-long-it-pro/" target="_blank">article by Don Jones entitled "So Long, 'IT Pro'"</a>. &nbsp;In it Don references a move being made by GE away from generalized sysadmins to engineers that build and support a product. &nbsp;<br>
+There have recently been several articles on the changing face of the IT admin. &nbsp;One of my favorites has been the <a href="https://donjones.com/2014/02/25/so-long-it-pro/" data-cke-saved-href="https://donjones.com/2014/02/25/so-long-it-pro/" target="_blank">article by Don Jones entitled "So Long, 'IT Pro'"</a>. &nbsp;In it Don references a move being made by GE away from generalized sysadmins to engineers that build and support a product. &nbsp;<br>
 
 
 # Yes, we must code
@@ -34,7 +34,7 @@ We need to move from being a cost center to being a value add for the organizati
 Let's step up our game and fight the urge to say "No" to new initiatives and look for ways to say "Yes" and help make more awesome.
 
  
-   <iframe src="http://www.slideshare.net/slideshow/embed_code/16238261?rel=0&startSlide=24" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen=""> </iframe> <div style="margin-bottom:5px"> ** <a href="https://www.slideshare.net/jesserobbins/cloud-expo-jesserobbinsopscode20130129b" title="Jesse Robbins Keynote - Hacking Culture @ Cloud Expo Europe 2013" target="_blank">Jesse Robbins Keynote - Hacking Culture @ Cloud Expo Europe 2013</a> ** from **<a href="http://www.slideshare.net/jesserobbins" target="_blank">Jesse Robbins</a>** </div>
+   <iframe src="https://www.slideshare.net/slideshow/embed_code/16238261?rel=0&startSlide=24" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen=""> </iframe> <div style="margin-bottom:5px"> ** <a href="https://www.slideshare.net/jesserobbins/cloud-expo-jesserobbinsopscode20130129b" title="Jesse Robbins Keynote - Hacking Culture @ Cloud Expo Europe 2013" target="_blank">Jesse Robbins Keynote - Hacking Culture @ Cloud Expo Europe 2013</a> ** from **<a href="https://www.slideshare.net/jesserobbins" target="_blank">Jesse Robbins</a>** </div>
  
 
 

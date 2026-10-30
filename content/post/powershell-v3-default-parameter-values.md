@@ -104,5 +104,5 @@ This concludes our brief look at DefaultParameterValues for today.
 
 
 
-Go grab <a href="http://www.microsoft.com/download/en/details.aspx?id=27548" target="_blank">Version 3 CTP2</a> and give it a whirl…
+Go grab <a href="https://www.microsoft.com/download/en/details.aspx?id=27548" target="_blank">Version 3 CTP2</a> and give it a whirl…
 

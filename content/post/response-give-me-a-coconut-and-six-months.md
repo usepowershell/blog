@@ -12,7 +12,7 @@ title: 'Response: Give Me A Coconut and Six Months'
 
 ---
 
-I was <a href="http://www.brentozar.com/archive/2009/06/give-me-a-coconut-and-six-months/" target="_blank">tagged</a> by <a href="http://www.brentozar.com" target="_blank">SQL Server Expert Brent Ozar</a> in his response to a great, thought provoking blog post called <a href="http://www.ford-it.com/sqlagentman/?p=268" target="_blank">Give Me a Coconut and Six Months</a> by <a href="http://www.ford-it.com/sqlagentman" target="_blank">Tim Ford</a> (<a href="http://twitter.com/sqlagentman" target="_blank">SQLAgentMan on Twitter</a>).
+I was <a href="https://www.brentozar.com/archive/2009/06/give-me-a-coconut-and-six-months/" target="_blank">tagged</a> by <a href="https://www.brentozar.com" target="_blank">SQL Server Expert Brent Ozar</a> in his response to a great, thought provoking blog post called <a href="https://www.ford-it.com/sqlagentman/?p=268" target="_blank">Give Me a Coconut and Six Months</a> by <a href="https://www.ford-it.com/sqlagentman" target="_blank">Tim Ford</a> (<a href="https://twitter.com/sqlagentman" target="_blank">SQLAgentMan on Twitter</a>).
 
 
 
@@ -114,5 +114,5 @@ How about:
 
 
 *   <a href="http://dougfinke.com/blog/" target="_blank">Doug Finke</a> (developer, data visualization explorer,&#160; and PowerShell MVP), 
-*   <a href="http://halr9000.com/" target="_blank">Hal Rottenberg</a> (administrator, VMWare vExpert, podcaster, and PowerShell MVP),
-*   and <a href="http://fatbeards.blogspot.com/" target="_blank">Wes Stahler</a> (administrator, blogger, and PowerShell enthusiast)
+*   <a href="https://halr9000.com/" target="_blank">Hal Rottenberg</a> (administrator, VMWare vExpert, podcaster, and PowerShell MVP),
+*   and <a href="https://fatbeards.blogspot.com/" target="_blank">Wes Stahler</a> (administrator, blogger, and PowerShell enthusiast)

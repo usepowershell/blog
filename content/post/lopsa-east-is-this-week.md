@@ -27,7 +27,7 @@ LOPSA-East features technology specific training covering:
 
 
 
-If you are trying to drive technical change (introducing configuration management in your environment for example), check out <a href="http://everythingsysadmin.com/" target="_blank">Tom Limoncelli</a>'s Evil Genius 101 class. &nbsp;Tom is the author of <a href="http://www.amazon.com/Practice-System-Network-Administration-Edition/dp/0321492668" target="_blank">The Practice of System and Network Administration</a>, which is THE book that helped me really become a sysadmin. &nbsp;Tom also has a class on Advanced Time Management focusing on team&nbsp;efficiency.
+If you are trying to drive technical change (introducing configuration management in your environment for example), check out <a href="https://everythingsysadmin.com/" target="_blank">Tom Limoncelli</a>'s Evil Genius 101 class. &nbsp;Tom is the author of <a href="https://www.amazon.com/Practice-System-Network-Administration-Edition/dp/0321492668" target="_blank">The Practice of System and Network Administration</a>, which is THE book that helped me really become a sysadmin. &nbsp;Tom also has a class on Advanced Time Management focusing on team&nbsp;efficiency.
 
 
 David Blank-Edelman will be talking about Building A SysAdmin sandbox. &nbsp;I've been bumping into David at a few conferences and I finally had the chance to hear his keynote at the Cascadia IT Conference this year which was entertaining and thought provoking. &nbsp;David also has a class on implementing Wordpress for SysAdmin&nbsp;

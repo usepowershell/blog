@@ -23,7 +23,7 @@ On April 1st, 2009, Microsoft is putting on a free 24 hour virtual event coverin
 *   Web Development &amp; User Experience
 
 
-PowerShell Community’s own <a href="http://marcoshaw.blogspot.com/" target="_blank">Marco Shaw (MVP)</a> will be presenting the **ONLY** PowerShell session:
+PowerShell Community’s own <a href="https://marcoshaw.blogspot.com/" target="_blank">Marco Shaw (MVP)</a> will be presenting the **ONLY** PowerShell session:
 
 
 
@@ -36,7 +36,7 @@ WIN300 Scripting the Microsoft .NET Framework Using Windows PowerShell     <br>N
 
 
 
-You can find more information about this event <a href="http://www.msfttechdays.com/public/sessions.aspx" target="_blank">here</a> or on <a href="http://marcoshaw.blogspot.com/2009/03/free-event-techdays-defy-all-challenges.html" target="_blank">Marco’s blog</a>.&#160; 
+You can find more information about this event <a href="http://www.msfttechdays.com/public/sessions.aspx" target="_blank">here</a> or on <a href="https://marcoshaw.blogspot.com/2009/03/free-event-techdays-defy-all-challenges.html" target="_blank">Marco’s blog</a>.&#160; 
 
 
 

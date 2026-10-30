@@ -17,7 +17,7 @@ If you are not familiar with $error, it's an automatic variable that contains al
 I've recently seen some public scripts that use $error[0] in the catch block
 
  
-   <script src="https://gist.github.com/smurawski/3f28ddff96f8d17de1b0.js"></script>
+   <script src="https://gist.github.com/usepowershell/3f28ddff96f8d17de1b0.js"></script>
  
 
 
@@ -27,7 +27,7 @@ So what happens if DoSomeLoggingOfContext throws or writes an error? &nbsp;$erro
 A better option is to use $_ to represent the caught exception.
 
  
-   <script src="https://gist.github.com/smurawski/43714eee1252cc4caf46.js"></script>
+   <script src="https://gist.github.com/usepowershell/43714eee1252cc4caf46.js"></script>
  
 
 

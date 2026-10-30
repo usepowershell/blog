@@ -20,7 +20,7 @@ title: I'm a Fraud
 
 
 
-Have you ever felt this way?&nbsp; I know I have.&nbsp; These are indicators of imposters syndrome.&nbsp; [internalize](http://en.wikipedia.org/wiki/Internalize) their accomplishments. Despite external evidence of their competence, those with the syndrome remain convinced that they are frauds and do not deserve the success they have achieved. Proof of success is dismissed as luck, timing, or as a result of deceiving others into thinking they are more [intelligent](http://en.wikipedia.org/wiki/Intelligent) and competent than they believe themselves to be.
+Have you ever felt this way?&nbsp; I know I have.&nbsp; These are indicators of imposters syndrome.&nbsp; [internalize](https://en.wikipedia.org/wiki/Internalize) their accomplishments. Despite external evidence of their competence, those with the syndrome remain convinced that they are frauds and do not deserve the success they have achieved. Proof of success is dismissed as luck, timing, or as a result of deceiving others into thinking they are more [intelligent](https://en.wikipedia.org/wiki/Intelligent) and competent than they believe themselves to be.
 
 
 

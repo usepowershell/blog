@@ -33,7 +33,7 @@ If you don't have a Rust development environment already, check out [my post on 
 
 ### Creating the Source Repository
 
-We'll need somewhere for VSTS to get the source of our project.  In this example, I'm going to use GitHub ([my project can be found here](https://github.com/smurawski/vsts_rust_build)).  In the code samples below, I'll use this project and I've noted the starting and ending tags for each section.
+We'll need somewhere for VSTS to get the source of our project.  In this example, I'm going to use GitHub ([my project can be found here](https://github.com/usepowershell/vsts_rust_build)).  In the code samples below, I'll use this project and I've noted the starting and ending tags for each section.
 
 *Note: I'm using a Windows workstation from a PowerShell prompt.*
 
@@ -41,11 +41,11 @@ As long as you have an internet accessible Git repository, you can use whatever 
 
 #### Initializing the Project
 
-*Starting tag - [first](https://github.com/smurawski/vsts_rust_build/tree/first)*
+*Starting tag - [first](https://github.com/usepowershell/vsts_rust_build/tree/first)*
 
 After [creating an new repository in GitHub](https://help.github.com/articles/creating-a-new-repository/) ([or in VSTS](http://cda.ms/2P)), clone the new repository down to your local workstation to a location where you'd normally work with source code.
 
-`git clone https://github.com/smurawski/vsts_rust_build.git`
+`git clone https://github.com/usepowershell/vsts_rust_build.git`
 
 Then, change directories into the new project.
 
@@ -65,39 +65,39 @@ git commit -m 'Cargo init'
 git push origin master
 ```
 
-*Ending tag - [second](https://github.com/smurawski/vsts_rust_build/tree/second)*
+*Ending tag - [second](https://github.com/usepowershell/vsts_rust_build/tree/second)*
 
 ### Creating the Windows Build
 
 #### Windows Build Script
 
-*Starting tag - [second](https://github.com/smurawski/vsts_rust_build/tree/second)*
+*Starting tag - [second](https://github.com/usepowershell/vsts_rust_build/tree/second)*
 
 
 Now that we have our basic application, we'll add a little wrapper PowerShell build script (so that it is easier to add behavior to our build without having to put too much in the UI).
 
-We'll add [build.ps1](https://github.com/smurawski/vsts_rust_build/blob/master/build.ps1) to our project.
+We'll add [build.ps1](https://github.com/usepowershell/vsts_rust_build/blob/master/build.ps1) to our project.
 
 ```
-invoke-restmethod https://raw.githubusercontent.com/smurawski/vsts_rust_build/master/build.ps1 -outfile build.ps1 
+invoke-restmethod https://raw.githubusercontent.com/usepowershell/vsts_rust_build/master/build.ps1 -outfile build.ps1 
 git add build.ps1
 git commit -m 'windows build script'
 git push origin master
 ```
 
-*Ending tag - [third](https://github.com/smurawski/vsts_rust_build/tree/third)*
+*Ending tag - [third](https://github.com/usepowershell/vsts_rust_build/tree/third)*
 
 #### Linux Build Scripts
 
-*Starting tag - [third](https://github.com/smurawski/vsts_rust_build/tree/third)*
+*Starting tag - [third](https://github.com/usepowershell/vsts_rust_build/tree/third)*
 
 Because I'm not as clever with Bash as I am PowerShell, I have a few quick shell scripts to help the linux build along, rather than one big one.
 
 ```
-invoke-restmethod https://raw.githubusercontent.com/smurawski/vsts_rust_build/master/install.sh -outfile install.sh
-invoke-restmethod https://raw.githubusercontent.com/smurawski/vsts_rust_build/master/format.sh -outfile format.sh 
-invoke-restmethod https://raw.githubusercontent.com/smurawski/vsts_rust_build/master/test.sh -outfile test.sh 
-invoke-restmethod https://raw.githubusercontent.com/smurawski/vsts_rust_build/master/build.sh -outfile build.sh 
+invoke-restmethod https://raw.githubusercontent.com/usepowershell/vsts_rust_build/master/install.sh -outfile install.sh
+invoke-restmethod https://raw.githubusercontent.com/usepowershell/vsts_rust_build/master/format.sh -outfile format.sh 
+invoke-restmethod https://raw.githubusercontent.com/usepowershell/vsts_rust_build/master/test.sh -outfile test.sh 
+invoke-restmethod https://raw.githubusercontent.com/usepowershell/vsts_rust_build/master/build.sh -outfile build.sh 
 git add install.sh
 git add format.sh
 git add test.sh
@@ -106,7 +106,7 @@ git commit -m 'linux build scripts'
 git push origin master
 ```
 
-*Ending tag - [fourth](https://github.com/smurawski/vsts_rust_build/tree/fourth)*
+*Ending tag - [fourth](https://github.com/usepowershell/vsts_rust_build/tree/fourth)*
 
 #### Adding the Windows Build To VSTS
 
@@ -117,8 +117,8 @@ Once I have my project, I'll need to create a build definition from the "Builds"
 Rather than clicking through and adding a bunch of tasks, I've exported the build definitions I've created for this example.  We can download them and import them from the Builds screen.
 
 ```
-invoke-restmethod https://raw.githubusercontent.com/smurawski/vsts_rust_build/master/build_definitions/vsts_rust_hello_world-windows-CI.json -outfile vsts_rust_hello_world-windows-CI.json
-invoke-restmethod https://raw.githubusercontent.com/smurawski/vsts_rust_build/master/build_definitions/vsts_rust_hello_world-linux-CI.json -outfile vsts_rust_hello_world-linux-CI.json 
+invoke-restmethod https://raw.githubusercontent.com/usepowershell/vsts_rust_build/master/build_definitions/vsts_rust_hello_world-windows-CI.json -outfile vsts_rust_hello_world-windows-CI.json
+invoke-restmethod https://raw.githubusercontent.com/usepowershell/vsts_rust_build/master/build_definitions/vsts_rust_hello_world-linux-CI.json -outfile vsts_rust_hello_world-linux-CI.json 
 ```
 
 {{< figure src="/talks/DevOps-Images/2017-10-19_17_52_49-vsts_rust_hello_world-windows-CI‎.png" title="Windows Build Definition" >}}
@@ -155,7 +155,7 @@ Once we've got the ID number, we can edit our Windows build definition and updat
 
 ### Starting The Build
 
-*Starting tag - [fourth](https://github.com/smurawski/vsts_rust_build/tree/fourth)*
+*Starting tag - [fourth](https://github.com/usepowershell/vsts_rust_build/tree/fourth)*
 
 Now that we have our build in place, we can start to make changes to the code and have our CI process validate those changes.
 
@@ -201,7 +201,7 @@ git commit -m 'Fix the broken test`
 git push origin master
 ```
 
-*Ending tag - [fifth](https://github.com/smurawski/vsts_rust_build/tree/fifth)*
+*Ending tag - [fifth](https://github.com/usepowershell/vsts_rust_build/tree/fifth)*
 
 
 ## Next Steps

@@ -33,7 +33,7 @@ I care about the the admin who (not inclusive, but you get the idea):
 *   Has a home lab / makes sacrifices to stay on top of technology changes / pay their own way to conferences
 
 That last point may rub a few people the wrong way.  "But I've got x expense" or "my family duties won't let me" are common refrains.  If you care about your career and your employer is not investing in you, you need to make the effort (and sometimes expenditures).  There are often free or low-cost, local tech events (thinks like DevOpsDays, SQL Saturdays, Code Camps).  If they aren't in your area, you might find them within easy travel distance.  There are tons of online (free) options as well - Microsoft Virtual Academy, PowerShell Summit and ChefConf both have all their sessions online, and Ignite and Build have sessions on Channel 9.  
-<a href="http://dilbert.com/strip/2010-04-02">![](http://assets.amuniversal.com/0b7c58d06cba01301d46001dd8b71c47)</a>
+<a href="http://dilbert.com/strip/2010-04-02">![](https://assets.amuniversal.com/0b7c58d06cba01301d46001dd8b71c47)</a>
 
 When it come to making time, any change requires some sacrifice. Is it worth losing a few hours of sleep or time watching TV to build your skills and position yourself for a better job? 
 
@@ -55,7 +55,7 @@ Those who:
 *   Find things "good enough"
 *   Obstruct change
 *   Find excuses for avoiding learning
-*   Would rather meet metrics than make the business successful<a href="http://dilbert.com/strip/1996-12-02">![](http://assets.amuniversal.com/70caabe0a04b012f2fe600163e41dd5b)</a>
+*   Would rather meet metrics than make the business successful<a href="http://dilbert.com/strip/1996-12-02">![](https://assets.amuniversal.com/70caabe0a04b012f2fe600163e41dd5b)</a>
 
 
 I don't make this determination lightly.  I want everyone who manages systems for a living to have a fulfilling, rewarding career.  I've spent years evangelizing better ways to approach systems administration and even some of my closest co-workers wouldn't be swayed.  

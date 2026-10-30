@@ -117,7 +117,7 @@ You should try these tools and see what is going to work for you workflow. &nbsp
 
 
 
-Take yourself over to[ learn.getchef.com ](http://learn.getchef.com/additional-resources/)and watch the Fundamentals webinar series (available on YouTube and all linked up). &nbsp;We are working on getting our Windows focused getting started material onto the site, but the Fundamentals videos will really start giving you a feel for what working with Chef looks like.
+Take yourself over to[ learn.getchef.com ](https://learn.getchef.com/additional-resources/)and watch the Fundamentals webinar series (available on YouTube and all linked up). &nbsp;We are working on getting our Windows focused getting started material onto the site, but the Fundamentals videos will really start giving you a feel for what working with Chef looks like.
 
 
 ## What if I've Already Started Learning DSC?

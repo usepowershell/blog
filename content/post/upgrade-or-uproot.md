@@ -29,7 +29,7 @@ And until someone with authority in that IT system stands up and forces some cha
 
 Enterprise IT, in general, has evolved to be order takers and janitors of the software world.
 
-A conversation between Mark Schwartz and a former employer in [The Art of Business Value by Mark Schwartz, IT Revolution Press 2016](http://itrevolution.com/books/the-art-of-business-value/).
+A conversation between Mark Schwartz and a former employer in [The Art of Business Value by Mark Schwartz, IT Revolution Press 2016](https://itrevolution.com/books/the-art-of-business-value/).
 
 > “You are missing the point,” Takeshi said. “I have trusted you with an investment in an IT system. Your job is to make sure that I get a good return from my IT investments. I am not getting a good return.” I argued, of course, that he wasn’t being fair, that I had no authority over the business unit’s management, and I couldn’t compel them to change the requirements to something that would be more effective. But ultimately I had to admit that he had a point. Was I just responsible for executing projects, or was I responsible for delivering business value from IT investments?
 

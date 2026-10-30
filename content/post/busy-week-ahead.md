@@ -18,5 +18,5 @@ On Tuesday, <a href="http://www.wi-ineta.org/DesktopDefault.aspx?tabid=58" targe
 
 
 
-I’ll also have this week’s [Exploring the .NET Framework](http://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf517e4b0c945709cff39/1353512215537/?format=original) post on static methods.
+I’ll also have this week’s [Exploring the .NET Framework](https://static.squarespace.com/static/50a13c5be4b039333cb95a3b/50acf4c0e4b0c945709cfb5c/50acf517e4b0c945709cff39/1353512215537/?format=original) post on static methods.
 

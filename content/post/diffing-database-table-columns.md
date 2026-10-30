@@ -37,5 +37,5 @@ This script can also take pipeline input, either strings or a property of “Nam
 
 
 
-You can find <a href="http://poshcode.org/974" target="_blank">this script</a> on <a href="http://poshcode.org" target="_blank">PoshCode.org</a>.
+You can find <a href="http://poshcode.org/974" target="_blank">this script</a> on <a href="https://poshcode.org" target="_blank">PoshCode.org</a>.
 

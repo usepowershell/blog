@@ -14,7 +14,7 @@ title: Using Pipeline Input
 
 ---
 
-In judging the <a href="http://bit.ly/2011sgall" target="_blank">Scripting Games</a>, I've found a good number of scripts that are trying to use the Parameter attribute to take pipeline input, but there are several key mistakes.
+In judging the <a href="https://bit.ly/2011sgall" target="_blank">Scripting Games</a>, I've found a good number of scripts that are trying to use the Parameter attribute to take pipeline input, but there are several key mistakes.
 
 
 
@@ -79,7 +79,7 @@ function Write-SampleData (){
     
 
     
-    When you specify that a parameter takes pipeline input, that input is evaluated for every run of the &quot;Process&quot; block (see the <a href="http://technet.microsoft.com/en-us/library/dd347712.aspx" target="_blank">about_Functions help</a> for further details on the Begin, Process, and End blocks).
+    When you specify that a parameter takes pipeline input, that input is evaluated for every run of the &quot;Process&quot; block (see the <a href="https://technet.microsoft.com/en-us/library/dd347712.aspx" target="_blank">about_Functions help</a> for further details on the Begin, Process, and End blocks).
     
 
     

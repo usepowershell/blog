@@ -28,7 +28,7 @@ Now, I’m back dealing with Crystal Reports more frequently and in the position
 
 
 
-I’ve recently had a bit of exposure to the object model for the <a href="http://msdn.microsoft.com/en-us/library/bb944221.aspx" target="_blank">.NET API for Crystal Reports</a> and thought maybe I could leverage that through <a href="http://msdn.microsoft.com/en-us/library/ms714418(VS.85).aspx" target="_blank">PowerShell</a> and whip together a quick script to help me list out the tables in each report.
+I’ve recently had a bit of exposure to the object model for the <a href="https://msdn.microsoft.com/en-us/library/bb944221.aspx" target="_blank">.NET API for Crystal Reports</a> and thought maybe I could leverage that through <a href="https://msdn.microsoft.com/en-us/library/ms714418(VS.85).aspx" target="_blank">PowerShell</a> and whip together a quick script to help me list out the tables in each report.
 
 
 
@@ -56,7 +56,7 @@ The full script also accesses the first level of subreports and retrieves their 
 
 
 
-NOTE: <a href="http://wiki.sdn.sap.com/wiki/pages/viewpage.action?pageId=56787567" target="_blank">Requires either the Crystal Report Runtime (Visual Studio 2008) </a> or Visual Studio to be installed.
+NOTE: <a href="https://wiki.sdn.sap.com/wiki/pages/viewpage.action?pageId=56787567" target="_blank">Requires either the Crystal Report Runtime (Visual Studio 2008) </a> or Visual Studio to be installed.
 
 
 

@@ -9,7 +9,7 @@ title: I’m on TechNet Radio!
 
 ---
 
-A little while back, I had an <a href="http://technet.microsoft.com/en-us/edge/john-weston-interviews-steven-murwaski-greater-milwaukee-script-club.aspx" target="_blank">opportunity to talk with John Weston</a> on <a href="http://technet.microsoft.com/en-us/edge/ff832960.aspx?category=Community Corner" target="_blank">TechNet Radio’s Community Corner</a>.
+A little while back, I had an <a href="https://technet.microsoft.com/en-us/edge/john-weston-interviews-steven-murwaski-greater-milwaukee-script-club.aspx" target="_blank">opportunity to talk with John Weston</a> on <a href="https://technet.microsoft.com/en-us/edge/ff832960.aspx?category=Community Corner" target="_blank">TechNet Radio’s Community Corner</a>.
 
 
 
@@ -28,5 +28,5 @@ We talked a bit about PowerShell and the community around it, as well as my loca
 
 
 
-Thanks to <a href="http://blogs.technet.com/b/jweston/" target="_blank">John</a> and Chris for taking the time to talk with me, and don’t forget to check out the other great segments in the Community Corner and see what is happening in other user groups!
+Thanks to <a href="https://blogs.technet.com/b/jweston/" target="_blank">John</a> and Chris for taking the time to talk with me, and don’t forget to check out the other great segments in the Community Corner and see what is happening in other user groups!
 

@@ -22,7 +22,7 @@ Version 2 of PowerShell introduced [structured help](/blog/2011/04/looking-for-h
 
 
 
-One of the things I saw a good bit of in the <a href="http://bit.ly/2011sgall" target="_blank">Scripting Games</a> this year was that people wrote their own help functions.&#160; 
+One of the things I saw a good bit of in the <a href="https://bit.ly/2011sgall" target="_blank">Scripting Games</a> this year was that people wrote their own help functions.&#160; 
 
 
 
@@ -218,5 +218,5 @@ And if that’s not easy enough, there are several functions that have been writ
 
 
 
-*   <a href="http://jdhitsolutions.com/blog/2011/03/new-comment-help/" target="_blank">From Jeff Hicks.</a> 
-*   <a href="http://blogs.technet.com/b/heyscriptingguy/archive/2010/09/11/automatically-add-comment-based-help-to-your-powershell-scripts.aspx" target="_blank">From Ed Wilson</a> 
+*   <a href="https://jdhitsolutions.com/blog/2011/03/new-comment-help/" target="_blank">From Jeff Hicks.</a> 
+*   <a href="https://blogs.technet.com/b/heyscriptingguy/archive/2010/09/11/automatically-add-comment-based-help-to-your-powershell-scripts.aspx" target="_blank">From Ed Wilson</a> 

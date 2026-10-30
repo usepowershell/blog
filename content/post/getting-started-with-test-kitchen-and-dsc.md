@@ -38,7 +38,7 @@ All of those things are customizable.
 
 [My talk for the Mississippi PowerShell User Group on DSC and Test-Kitchen](http://mspsug.com/2016/05/17/video-acceptance-testing-powershell-desired-state-configuration-with-test-kitchen/)
 
-[Test-Kitchen docs](http://kitchen.ci)
+[Test-Kitchen docs](https://kitchen.ci)
 
 [Test-Kitchen project](https://github.com/test-kitchen/test-kitchen)
 
@@ -48,5 +48,5 @@ All of those things are customizable.
 
 [kitchen-pester](https://github.com/test-kitchen/kitchen-pester/blob/master/README.md)
 
-[Example project - xWebAdministration](https://github.com/smurawski/xWebAdministration)
+[Example project - xWebAdministration](https://github.com/usepowershell/xWebAdministration)
   

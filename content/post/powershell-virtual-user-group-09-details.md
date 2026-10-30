@@ -9,7 +9,7 @@ title: 'PowerShell Virtual User Group #9 Details'
 
 ---
 
-<a href="http://marcoshaw.blogspot.com" target="_blank">Marco Shaw</a> just posted the <a href="http://marcoshaw.blogspot.com/2009/02/windows-powershell-virtual-user-group.html" target="_blank">details about the next Virtual User Group meeting</a>. 
+<a href="https://marcoshaw.blogspot.com" target="_blank">Marco Shaw</a> just posted the <a href="https://marcoshaw.blogspot.com/2009/02/windows-powershell-virtual-user-group.html" target="_blank">details about the next Virtual User Group meeting</a>. 
 
 
 
@@ -26,5 +26,5 @@ Speaker topics:     <br>*Doug Finke: Data visualization in PowerShell ([http://w
 
 
 
-The <a href="http://marcoshaw.blogspot.com/2009/02/windows-powershell-virtual-user-group.html" target="_blank">Virtual User Group meeting</a> is this Wednesday at 8:00 PM EST.&#160; You can <a href="http://www.clicktoattend.com/?id=135834" target="_blank">register here</a>.&#160; See you there!
+The <a href="https://marcoshaw.blogspot.com/2009/02/windows-powershell-virtual-user-group.html" target="_blank">Virtual User Group meeting</a> is this Wednesday at 8:00 PM EST.&#160; You can <a href="http://www.clicktoattend.com/?id=135834" target="_blank">register here</a>.&#160; See you there!
 

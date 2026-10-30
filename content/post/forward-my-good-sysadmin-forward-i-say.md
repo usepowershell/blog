@@ -76,7 +76,7 @@ If you want to stay relevant in the technology space, especially in the IT admin
 
 *   YOU need to stay on top of technology.
 *   YOU need to make sure your team is pushing forward and prepared for the next change.
-*   YOU need to make sure the systems you are responsible for are positioned to take advantage of those changes.<a href="http://dilbert.com/strip/2009-11-16">![](http://assets.amuniversal.com/881e98b06cbc01301d46001dd8b71c47)</a>
+*   YOU need to make sure the systems you are responsible for are positioned to take advantage of those changes.<a href="http://dilbert.com/strip/2009-11-16">![](https://assets.amuniversal.com/881e98b06cbc01301d46001dd8b71c47)</a>
 
 Or YOU might have a hard time finding a new role when change invalidates your skillset. Relying on your boss or your company to be prepared is a "nice to have".  You cannot count on it - but your career depends on it.
 

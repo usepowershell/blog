@@ -10,7 +10,7 @@ title: Get in the Games!
 
 ---
 
-This year’s <a href="http://bit.ly/2011sgall" target="_blank">Scripting Games</a> is well underway, but there is still time to get involved.
+This year’s <a href="https://bit.ly/2011sgall" target="_blank">Scripting Games</a> is well underway, but there is still time to get involved.
 
 
 
@@ -32,7 +32,7 @@ If you think that the games are just that, think again.&#160; If you are just ge
 
 
 
-<a href="http://blogs.technet.com/b/heyscriptingguy/archive/2011/04/04/the-2011-scripting-games-beginner-event-1-use-powershell-to-identify-private-builds-of-software.aspx" target="_blank">Identifying Private Builds – Stresses finding information about running processes or executables.</a>
+<a href="https://blogs.technet.com/b/heyscriptingguy/archive/2011/04/04/the-2011-scripting-games-beginner-event-1-use-powershell-to-identify-private-builds-of-software.aspx" target="_blank">Identifying Private Builds – Stresses finding information about running processes or executables.</a>
 
 
 
@@ -41,7 +41,7 @@ If you think that the games are just that, think again.&#160; If you are just ge
 
 
 
-<a href="http://blogs.technet.com/b/heyscriptingguy/archive/2011/04/05/the-2011-scripting-games-beginner-event-2-use-powershell-to-identify-services-that-will-pause.aspx" target="_blank">Identifying Services that Will Pause – Stresses finding the capabilities of services and how to control them.</a>
+<a href="https://blogs.technet.com/b/heyscriptingguy/archive/2011/04/05/the-2011-scripting-games-beginner-event-2-use-powershell-to-identify-services-that-will-pause.aspx" target="_blank">Identifying Services that Will Pause – Stresses finding the capabilities of services and how to control them.</a>
 
 
 
@@ -50,7 +50,7 @@ If you think that the games are just that, think again.&#160; If you are just ge
 
 
 
-<a href="http://blogs.technet.com/b/heyscriptingguy/archive/2011/04/06/the-2011-scripting-games-beginner-event-3-use-powershell-to-report-event-log-and-etl-log-details.aspx" target="_blank">Reporting Event Log Details – Stresses how PowerShell can interact with Event Logs.</a>
+<a href="https://blogs.technet.com/b/heyscriptingguy/archive/2011/04/06/the-2011-scripting-games-beginner-event-3-use-powershell-to-report-event-log-and-etl-log-details.aspx" target="_blank">Reporting Event Log Details – Stresses how PowerShell can interact with Event Logs.</a>
 
 
 
@@ -59,7 +59,7 @@ If you think that the games are just that, think again.&#160; If you are just ge
 
 
 
-<a href="http://blogs.technet.com/b/heyscriptingguy/archive/2011/04/07/the-2011-scripting-games-beginner-event-4-use-powershell-to-find-accounts-used-by-services.aspx" target="_blank">Identifying Service Accounts – Stresses how to find what accounts are used by services.</a>
+<a href="https://blogs.technet.com/b/heyscriptingguy/archive/2011/04/07/the-2011-scripting-games-beginner-event-4-use-powershell-to-find-accounts-used-by-services.aspx" target="_blank">Identifying Service Accounts – Stresses how to find what accounts are used by services.</a>
 
 
 

@@ -15,7 +15,7 @@ I’ve used the integrated debugging features with <a href="http://support.micro
 
 
 
-<a href="http://technet.microsoft.com/en-us/library/dd315264.aspx" target="_blank">Set-PSBreakpoint</a> offers some additional options of which I was not aware.
+<a href="https://technet.microsoft.com/en-us/library/dd315264.aspx" target="_blank">Set-PSBreakpoint</a> offers some additional options of which I was not aware.
 
 
 

@@ -24,6 +24,6 @@ I continue in my role as an open source software engineer at Chef, which has bee
 
 ### What's happening in 2016
 
-This year, I'm going to be focusing on building more online content.  This will be at the expense of conferences and events I would attend in person.  I'm not abandoning conferences completely.  I'll still be at the [PowerShell and DevOps Global Summit](http://powershellsummit.org) and the [PowerShell Conference EU](http://www.psconf.eu).  Of course, I'll be at [ChefConf](https://www.chef.io/chefconf/) and likely at both Chef Summit (Seattle and London - though neither has been announced yet, so we'll see).
+This year, I'm going to be focusing on building more online content.  This will be at the expense of conferences and events I would attend in person.  I'm not abandoning conferences completely.  I'll still be at the [PowerShell and DevOps Global Summit](https://powershellsummit.org) and the [PowerShell Conference EU](https://www.psconf.eu).  Of course, I'll be at [ChefConf](https://www.chef.io/chefconf/) and likely at both Chef Summit (Seattle and London - though neither has been announced yet, so we'll see).
 
 Let's see what happens in the rest of 2016!

@@ -11,7 +11,7 @@ title: PowerShell in Azure
 
 ---
 
-The <a href="http://www.microsoft.com/downloads/details.aspx?FamilyID=aa40f3e2-afc5-484d-b4e9-6a5227e73590&amp;displaylang=en" target="_blank">July CTP release of the Windows Azure SDK</a> contains a new sample project called PowerShellRole which demonstrates that PowerShell is available in the cloud!
+The <a href="https://www.microsoft.com/downloads/details.aspx?FamilyID=aa40f3e2-afc5-484d-b4e9-6a5227e73590&amp;displaylang=en" target="_blank">July CTP release of the Windows Azure SDK</a> contains a new sample project called PowerShellRole which demonstrates that PowerShell is available in the cloud!
 
 
 

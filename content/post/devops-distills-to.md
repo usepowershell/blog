@@ -12,7 +12,7 @@ title: DevOps Distills To...
 
 
 
-I recently read <a data-cke-saved-href="http://www.amazon.com/The-Clean-Coder-Professional-Programmers/dp/0137081073/ref=sr_1_1?ie=UTF8&amp;qid=1391728116&amp;sr=8-1&amp;keywords=clean+coders" href="http://www.amazon.com/The-Clean-Coder-Professional-Programmers/dp/0137081073/ref=sr_1_1?ie=UTF8&amp;qid=1391728116&amp;sr=8-1&amp;keywords=clean+coders" target="_blank">Clean Coders</a>&nbsp;by <a data-cke-saved-href="http://blog.8thlight.com/" href="http://blog.8thlight.com/" target="_blank">Uncle Bob Martin</a>&nbsp;(<a data-cke-saved-href="http://twitter.com/unclebobmartin" href="http://twitter.com/unclebobmartin" target="_blank">twitter</a>). &nbsp;<br>
+I recently read <a data-cke-saved-href="https://www.amazon.com/The-Clean-Coder-Professional-Programmers/dp/0137081073/ref=sr_1_1?ie=UTF8&amp;qid=1391728116&amp;sr=8-1&amp;keywords=clean+coders" href="https://www.amazon.com/The-Clean-Coder-Professional-Programmers/dp/0137081073/ref=sr_1_1?ie=UTF8&amp;qid=1391728116&amp;sr=8-1&amp;keywords=clean+coders" target="_blank">Clean Coders</a>&nbsp;by <a data-cke-saved-href="https://blog.8thlight.com/" href="https://blog.8thlight.com/" target="_blank">Uncle Bob Martin</a>&nbsp;(<a data-cke-saved-href="https://twitter.com/unclebobmartin" href="https://twitter.com/unclebobmartin" target="_blank">twitter</a>). &nbsp;<br>
 
 
   <div class="product-block" class="clear">
@@ -20,7 +20,7 @@ I recently read <a data-cke-saved-href="http://www.amazon.com/The-Clean-Coder-Pr
     
 
     <div class="productDetails right">
-      <a href="http://www.amazon.com/The-Clean-Coder-Professional-Programmers/dp/0137081073%3FSubscriptionId%3D0ENGV10E9K9QDNSJ5C82%26tag%3Dinvestipendin-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0137081073" target="new" class="product-title title">The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Martin Series)</a>
+      <a href="https://www.amazon.com/The-Clean-Coder-Professional-Programmers/dp/0137081073%3FSubscriptionId%3D0ENGV10E9K9QDNSJ5C82%26tag%3Dinvestipendin-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0137081073" target="new" class="product-title title">The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Martin Series)</a>
       
       <div class="product-author author">By Robert C. Martin</div>
       
@@ -57,7 +57,7 @@ Technical staff should
 
 
 
-And that's why books like [Clean Coders](http://www.amazon.com/The-Clean-Coder-Professional-Programmers/dp/0137081073/ref=sr_1_1?ie=UTF8&amp;qid=1391728116&amp;sr=8-1&amp;keywords=clean+coders)&nbsp;and movements like DevOps are required. &nbsp;Many environments I've seen are more like pitched battles, with every business unit plotting on how to improve their position, not at the expense of the competition, but at the expense of other silos in the same company! &nbsp;This is not "professional" behavior.
+And that's why books like [Clean Coders](https://www.amazon.com/The-Clean-Coder-Professional-Programmers/dp/0137081073/ref=sr_1_1?ie=UTF8&amp;qid=1391728116&amp;sr=8-1&amp;keywords=clean+coders)&nbsp;and movements like DevOps are required. &nbsp;Many environments I've seen are more like pitched battles, with every business unit plotting on how to improve their position, not at the expense of the competition, but at the expense of other silos in the same company! &nbsp;This is not "professional" behavior.
 
 
 ## What Identifies Professionalism

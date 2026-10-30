@@ -13,5 +13,5 @@ title: PowerShell Deep Dive–Last Call for Early Registration
 
 
 
-You can find more details about the structure of the event and a pre-conference workshop by Don Jones (to make sure you are up to speed for the Deep Dive) [here.](http://www.theexpertsconference.com/us/2011/general-information/2011-powershell-deep-dive/)
+You can find more details about the structure of the event and a pre-conference workshop by Don Jones (to make sure you are up to speed for the Deep Dive) [here.](https://www.theexpertsconference.com/us/2011/general-information/2011-powershell-deep-dive/)
 

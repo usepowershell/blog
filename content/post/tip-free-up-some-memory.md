@@ -36,7 +36,7 @@ Later, when I’m feeling some memory pressure, I can run the second function <a
 
 
 
-Even if you skipped the previous bold section (which is perfectly acceptable), you might have noticed that when you clear out a variable, your memory usage for PowerShell might remain high for a while.&#160; My function speeds up the natural “garbage collection” process by calling <a href="http://msdn.microsoft.com/en-us/library/system.gc.collect.aspx" target="_blank">[System.GC]::Collect()</a>, forcing the CLR to reclaim that memory.
+Even if you skipped the previous bold section (which is perfectly acceptable), you might have noticed that when you clear out a variable, your memory usage for PowerShell might remain high for a while.&#160; My function speeds up the natural “garbage collection” process by calling <a href="https://msdn.microsoft.com/en-us/library/system.gc.collect.aspx" target="_blank">[System.GC]::Collect()</a>, forcing the CLR to reclaim that memory.
 
 
 

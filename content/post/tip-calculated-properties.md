@@ -10,12 +10,12 @@ title: 'Tip: Calculated Properties'
 
 ---
 
-I really enjoy [Jeffery Hicks's](http://blog.sapien.com/) [Prof. PowerShell column](http://mcpmag.com/columns/columnist.asp?columnistsid=81).  In two of his recent columns (<a href="http://mcpmag.com/columns/article.asp?editorialsid=3074" target="_blank">Perfect Properties</a> and <a href="http://mcpmag.com/columns/article.asp?editorialsid=3079" target="_blank">Label Me Perfect</a>), Jeffery goes in to "calculated properties".  
+I really enjoy [Jeffery Hicks's](https://blog.sapien.com/) [Prof. PowerShell column](https://mcpmag.com/columns/columnist.asp?columnistsid=81).  In two of his recent columns (<a href="https://mcpmag.com/columns/article.asp?editorialsid=3074" target="_blank">Perfect Properties</a> and <a href="https://mcpmag.com/columns/article.asp?editorialsid=3079" target="_blank">Label Me Perfect</a>), Jeffery goes in to "calculated properties".  
 A calculated property is a hashtable passed to the Select-Object or Format-* cmdlets as one of the properties to return.
 
 
 
-Here is an example from <a href="http://mcpmag.com/columns/article.asp?editorialsid=3079" target="_self">Label Me Perfect</a>:
+Here is an example from <a href="https://mcpmag.com/columns/article.asp?editorialsid=3079" target="_self">Label Me Perfect</a>:
 
 
 
